@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[DevFreeBooks]]></title><description><![CDATA[A collection of free books for developers]]></description><link>https://devfreebooks.github.io/</link><image><url>https://devfreebooks.github.io/assets/images/devfreebooks-thumb.png</url><title>DevFreeBooks</title><link>https://devfreebooks.github.io/</link></image><generator>RSS for Node</generator><lastBuildDate>Thu, 04 May 2017 17:29:24 GMT</lastBuildDate><atom:link href="https://devfreebooks.github.io/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 04 May 2017 17:29:00 GMT</pubDate><managingEditor><![CDATA[Caio Ribeiro Pereira]]></managingEditor><ttl>60</ttl><item><title><![CDATA[Free book: Perl introductory course]]></title><description><![CDATA[
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[DevFreeBooks]]></title><description><![CDATA[A collection of free books for developers]]></description><link>https://devfreebooks.github.io/</link><image><url>https://devfreebooks.github.io/assets/images/devfreebooks-thumb.png</url><title>DevFreeBooks</title><link>https://devfreebooks.github.io/</link></image><generator>RSS for Node</generator><lastBuildDate>Sat, 06 May 2017 12:22:30 GMT</lastBuildDate><atom:link href="https://devfreebooks.github.io/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 06 May 2017 12:22:00 GMT</pubDate><managingEditor><![CDATA[Caio Ribeiro Pereira]]></managingEditor><ttl>60</ttl><item><title><![CDATA[Free book: Perl introductory course]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/perl.png" title="Perl introductory course" />
@@ -12,7 +12,7 @@
             Lang: <b>EN</b> | Pages: <b>68</b> | Year: <b>2016</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/perl/#perl-introductory-course</link><guid isPermaLink="true">https://devfreebooks.github.io/perl/#perl-introductory-course</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 15 Mar 2017 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Vim Reference]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/perl/#perl-introductory-course</link><guid isPermaLink="true">https://devfreebooks.github.io/perl/#perl-introductory-course</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 14 Mar 2017 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Vim Reference]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/vim.png" title="Vim Reference" />
@@ -26,7 +26,7 @@
             Lang: <b>EN</b> | Pages: <b>39</b> | Year: <b>2016</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/vim/#vim-reference</link><guid isPermaLink="true">https://devfreebooks.github.io/vim/#vim-reference</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 15 Mar 2017 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Think Java]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/vim/#vim-reference</link><guid isPermaLink="true">https://devfreebooks.github.io/vim/#vim-reference</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 14 Mar 2017 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Think Java]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/think-java.jpg" title="Think Java" />
@@ -40,7 +40,7 @@
             Lang: <b>EN</b> | Pages: <b>291</b> | Year: <b>2016</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/java/#think-java</link><guid isPermaLink="true">https://devfreebooks.github.io/java/#think-java</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 15 Mar 2017 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Think Python]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/java/#think-java</link><guid isPermaLink="true">https://devfreebooks.github.io/java/#think-java</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 14 Mar 2017 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Think Python]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/think-python.jpg" title="Think Python" />
@@ -54,7 +54,7 @@
             Lang: <b>EN</b> | Pages: <b>244</b> | Year: <b>2015</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/python/#think-python</link><guid isPermaLink="true">https://devfreebooks.github.io/python/#think-python</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 15 Mar 2017 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Think DSP]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/python/#think-python</link><guid isPermaLink="true">https://devfreebooks.github.io/python/#think-python</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 14 Mar 2017 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Think DSP]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/think-dsp.jpg" title="Think DSP" />
@@ -68,7 +68,7 @@
             Lang: <b>EN</b> | Pages: <b>164</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/python/#think-dsp</link><guid isPermaLink="true">https://devfreebooks.github.io/python/#think-dsp</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 15 Mar 2017 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: How to Think Like a Computer Scientist: C++]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/python/#think-dsp</link><guid isPermaLink="true">https://devfreebooks.github.io/python/#think-dsp</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 14 Mar 2017 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: How to Think Like a Computer Scientist: C++]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/c-cpp.png" title="How to Think Like a Computer Scientist: C++" />
@@ -82,7 +82,7 @@
             Lang: <b>EN</b> | Pages: <b>191</b> | Year: <b>2012</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/c-cpp/#how-to-think-like-a-computer-scientist-c</link><guid isPermaLink="true">https://devfreebooks.github.io/c-cpp/#how-to-think-like-a-computer-scientist-c</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 15 Mar 2017 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: HTML and CSS is hard]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/c-cpp/#how-to-think-like-a-computer-scientist-c</link><guid isPermaLink="true">https://devfreebooks.github.io/c-cpp/#how-to-think-like-a-computer-scientist-c</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 14 Mar 2017 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: HTML and CSS is hard]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/html.png" title="HTML and CSS is hard" />
@@ -96,7 +96,7 @@
             Lang: <b>EN</b> | Pages: <b>200</b> | Year: <b>2016</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/html/#html-and-css-is-hard</link><guid isPermaLink="true">https://devfreebooks.github.io/html/#html-and-css-is-hard</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 15 Mar 2017 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Think OCalm]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/html/#html-and-css-is-hard</link><guid isPermaLink="true">https://devfreebooks.github.io/html/#html-and-css-is-hard</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 14 Mar 2017 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Think OCalm]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/think-ocaml.jpg" title="Think OCalm" />
@@ -110,7 +110,7 @@
             Lang: <b>EN</b> | Pages: <b>142</b> | Year: <b>2008</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/ocalm/#think-ocalm</link><guid isPermaLink="true">https://devfreebooks.github.io/ocalm/#think-ocalm</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 15 Mar 2017 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: SurviveJS React]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/ocalm/#think-ocalm</link><guid isPermaLink="true">https://devfreebooks.github.io/ocalm/#think-ocalm</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 14 Mar 2017 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: SurviveJS React]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/survivejs-react.jpg" title="SurviveJS React" />
@@ -124,7 +124,7 @@
             Lang: <b>EN</b> | Pages: <b>250</b> | Year: <b>2016</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/react/#survivejs-react</link><guid isPermaLink="true">https://devfreebooks.github.io/react/#survivejs-react</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sun, 19 Feb 2017 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: SurviveJS Webpack]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/react/#survivejs-react</link><guid isPermaLink="true">https://devfreebooks.github.io/react/#survivejs-react</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sat, 18 Feb 2017 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: SurviveJS Webpack]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/survivejs-webpack.jpg" title="SurviveJS Webpack" />
@@ -138,7 +138,7 @@
             Lang: <b>EN</b> | Pages: <b>350</b> | Year: <b>2016</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/react/#survivejs-webpack</link><guid isPermaLink="true">https://devfreebooks.github.io/react/#survivejs-webpack</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sun, 19 Feb 2017 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: The C Book, second edition]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/react/#survivejs-webpack</link><guid isPermaLink="true">https://devfreebooks.github.io/react/#survivejs-webpack</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sat, 18 Feb 2017 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: The C Book, second edition]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/c-cpp.png" title="The C Book, second edition" />
@@ -152,7 +152,7 @@
             Lang: <b>EN</b> | Pages: <b>333</b> | Year: <b>1991</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/c-cpp/#the-c-book-second-edition</link><guid isPermaLink="true">https://devfreebooks.github.io/c-cpp/#the-c-book-second-edition</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 07 Feb 2017 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: An Introduction to GCC]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/c-cpp/#the-c-book-second-edition</link><guid isPermaLink="true">https://devfreebooks.github.io/c-cpp/#the-c-book-second-edition</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 06 Feb 2017 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: An Introduction to GCC]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/an-introduction-to-gcc.jpg" title="An Introduction to GCC" />
@@ -166,7 +166,7 @@
             Lang: <b>EN</b> | Pages: <b>144</b> | Year: <b>2005</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/c-cpp/#an-introduction-to-gcc</link><guid isPermaLink="true">https://devfreebooks.github.io/c-cpp/#an-introduction-to-gcc</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 07 Feb 2017 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: ¡Aprende Haskell por el bien de todos!]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/c-cpp/#an-introduction-to-gcc</link><guid isPermaLink="true">https://devfreebooks.github.io/c-cpp/#an-introduction-to-gcc</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 06 Feb 2017 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: ¡Aprende Haskell por el bien de todos!]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/haskell.png" title="¡Aprende Haskell por el bien de todos!" />
@@ -180,7 +180,7 @@
             Lang: <b>ES</b> | Pages: <b>400</b> | Year: <b>2013</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/haskell/#aprende-haskell-por-el-bien-de-todos</link><guid isPermaLink="true">https://devfreebooks.github.io/haskell/#aprende-haskell-por-el-bien-de-todos</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sat, 04 Feb 2017 02:00:00 GMT</pubDate></item><item><title><![CDATA[Sponsored book: Building APIs with Node.js]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/haskell/#aprende-haskell-por-el-bien-de-todos</link><guid isPermaLink="true">https://devfreebooks.github.io/haskell/#aprende-haskell-por-el-bien-de-todos</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 03 Feb 2017 13:00:00 GMT</pubDate></item><item><title><![CDATA[Sponsored book: Building APIs with Node.js]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/building-apis-with-nodejs.png" title="Building APIs with Node.js" />
@@ -194,7 +194,7 @@
             Lang: <b>EN</b> | Pages: <b>137</b> | Year: <b>2016</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/nodejs/#building-apis-with-nodejs</link><guid isPermaLink="true">https://devfreebooks.github.io/nodejs/#building-apis-with-nodejs</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sat, 04 Feb 2017 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: JavaScript, ¡Inspírate!]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/nodejs/#building-apis-with-nodejs</link><guid isPermaLink="true">https://devfreebooks.github.io/nodejs/#building-apis-with-nodejs</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 03 Feb 2017 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: JavaScript, ¡Inspírate!]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/javascript-inspirate.jpg" title="JavaScript, ¡Inspírate!" />
@@ -208,7 +208,7 @@
             Lang: <b>ES</b> | Pages: <b>149</b> | Year: <b>2017</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/javascript/#javascript-insprate</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#javascript-insprate</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sat, 04 Feb 2017 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: The Vim Tutorial and Reference]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/javascript/#javascript-insprate</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#javascript-insprate</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 03 Feb 2017 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: The Vim Tutorial and Reference]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/vim.png" title="The Vim Tutorial and Reference" />
@@ -222,7 +222,7 @@
             Lang: <b>EN</b> | Pages: <b>804</b> | Year: <b>2007</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/vim/#the-vim-tutorial-and-reference</link><guid isPermaLink="true">https://devfreebooks.github.io/vim/#the-vim-tutorial-and-reference</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 30 Jan 2017 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Learn to Code HTML & CSS]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/vim/#the-vim-tutorial-and-reference</link><guid isPermaLink="true">https://devfreebooks.github.io/vim/#the-vim-tutorial-and-reference</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sun, 29 Jan 2017 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Learn to Code HTML & CSS]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/learn-to-code-html-and-css.jpg" title="Learn to Code HTML & CSS" />
@@ -236,7 +236,7 @@
             Lang: <b>EN</b> | Pages: <b>304</b> | Year: <b>2013</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/html/#learn-to-code-html--css</link><guid isPermaLink="true">https://devfreebooks.github.io/html/#learn-to-code-html--css</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 30 Jan 2017 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Python Basics]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/html/#learn-to-code-html--css</link><guid isPermaLink="true">https://devfreebooks.github.io/html/#learn-to-code-html--css</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sun, 29 Jan 2017 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Python Basics]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/python.png" title="Python Basics" />
@@ -250,7 +250,7 @@
             Lang: <b>EN</b> | Pages: <b>119</b> | Year: <b>2016</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/python/#python-basics</link><guid isPermaLink="true">https://devfreebooks.github.io/python/#python-basics</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 30 Jan 2017 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Clean Code concepts adapted for Javascript]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/python/#python-basics</link><guid isPermaLink="true">https://devfreebooks.github.io/python/#python-basics</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sun, 29 Jan 2017 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Clean Code concepts adapted for Javascript]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/javascript.png" title="Clean Code concepts adapted for Javascript" />
@@ -264,7 +264,7 @@
             Lang: <b>EN</b> | Pages: <b>11</b> | Year: <b>2016</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/javascript/#clean-code-concepts-adapted-for-javascript</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#clean-code-concepts-adapted-for-javascript</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 30 Jan 2017 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: D Programming Language Specification]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/javascript/#clean-code-concepts-adapted-for-javascript</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#clean-code-concepts-adapted-for-javascript</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sun, 29 Jan 2017 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: D Programming Language Specification]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/d.png" title="D Programming Language Specification" />
@@ -278,7 +278,7 @@
             Lang: <b>EN</b> | Pages: <b>552</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/d/#d-programming-language-specification</link><guid isPermaLink="true">https://devfreebooks.github.io/d/#d-programming-language-specification</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 14 Dec 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: The Road to learn React]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/d/#d-programming-language-specification</link><guid isPermaLink="true">https://devfreebooks.github.io/d/#d-programming-language-specification</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 13 Dec 2016 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: The Road to learn React]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/the-road-to-learn-react.jpg" title="The Road to learn React" />
@@ -292,7 +292,7 @@
             Lang: <b>EN</b> | Pages: <b>101</b> | Year: <b>2016</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/react/#the-road-to-learn-react</link><guid isPermaLink="true">https://devfreebooks.github.io/react/#the-road-to-learn-react</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 14 Dec 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Programming in D]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/react/#the-road-to-learn-react</link><guid isPermaLink="true">https://devfreebooks.github.io/react/#the-road-to-learn-react</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 13 Dec 2016 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Programming in D]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/d.png" title="Programming in D" />
@@ -306,7 +306,7 @@
             Lang: <b>EN</b> | Pages: <b>760</b> | Year: <b>2015</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/d/#programming-in-d</link><guid isPermaLink="true">https://devfreebooks.github.io/d/#programming-in-d</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 14 Dec 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Object-Oriented Programming in C]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/d/#programming-in-d</link><guid isPermaLink="true">https://devfreebooks.github.io/d/#programming-in-d</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 13 Dec 2016 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Object-Oriented Programming in C]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/c-cpp.png" title="Object-Oriented Programming in C" />
@@ -320,7 +320,7 @@
             Lang: <b>EN</b> | Pages: <b>221</b> | Year: <b>1994</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/c-cpp/#objectoriented-programming-in-c</link><guid isPermaLink="true">https://devfreebooks.github.io/c-cpp/#objectoriented-programming-in-c</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 28 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Clojure for the brave and true]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/c-cpp/#objectoriented-programming-in-c</link><guid isPermaLink="true">https://devfreebooks.github.io/c-cpp/#objectoriented-programming-in-c</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sun, 27 Nov 2016 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Clojure for the brave and true]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/clojure-for-the-brave-and-true.jpg" title="Clojure for the brave and true" />
@@ -334,7 +334,7 @@
             Lang: <b>EN</b> | Pages: <b>328</b> | Year: <b>2015</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/clojure/#clojure-for-the-brave-and-true</link><guid isPermaLink="true">https://devfreebooks.github.io/clojure/#clojure-for-the-brave-and-true</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 18 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Speaking JavaScript: An In-Depth Guide for Programmers]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/clojure/#clojure-for-the-brave-and-true</link><guid isPermaLink="true">https://devfreebooks.github.io/clojure/#clojure-for-the-brave-and-true</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 17 Nov 2016 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Speaking JavaScript: An In-Depth Guide for Programmers]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/speaking-javascript-an-in-depth-guide-for-programmers.jpg" title="Speaking JavaScript: An In-Depth Guide for Programmers" />
@@ -348,7 +348,7 @@
             Lang: <b>EN</b> | Pages: <b>460</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/javascript/#speaking-javascript-an-indepth-guide-for-programmers</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#speaking-javascript-an-indepth-guide-for-programmers</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 18 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: The Type Astronaut’s Guide to Shapeless]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/javascript/#speaking-javascript-an-indepth-guide-for-programmers</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#speaking-javascript-an-indepth-guide-for-programmers</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 17 Nov 2016 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: The Type Astronaut’s Guide to Shapeless]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/the-type-astronauts-guide-to-shapeless.jpg" title="The Type Astronaut’s Guide to Shapeless" />
@@ -362,7 +362,7 @@
             Lang: <b>EN</b> | Pages: <b>107</b> | Year: <b>2016</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/scala/#the-type-astronauts-guide-to-shapeless</link><guid isPermaLink="true">https://devfreebooks.github.io/scala/#the-type-astronauts-guide-to-shapeless</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 17 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: High Performance Browser Networking]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/scala/#the-type-astronauts-guide-to-shapeless</link><guid isPermaLink="true">https://devfreebooks.github.io/scala/#the-type-astronauts-guide-to-shapeless</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 16 Nov 2016 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: High Performance Browser Networking]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/high-performance-browser-networking.jpg" title="High Performance Browser Networking" />
@@ -376,7 +376,7 @@
             Lang: <b>EN</b> | Pages: <b>400</b> | Year: <b>2013</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/network-protocols/#high-performance-browser-networking</link><guid isPermaLink="true">https://devfreebooks.github.io/network-protocols/#high-performance-browser-networking</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 16 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: The OCaml System: Documentation and User's Manual]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/network-protocols/#high-performance-browser-networking</link><guid isPermaLink="true">https://devfreebooks.github.io/network-protocols/#high-performance-browser-networking</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 15 Nov 2016 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: The OCaml System: Documentation and User's Manual]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/ocalm.png" title="The OCaml System: Documentation and User's Manual" />
@@ -390,7 +390,7 @@
             Lang: <b>EN</b> | Pages: <b>554</b> | Year: <b>2012</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/ocalm/#the-ocaml-system-documentation-and-users-manual</link><guid isPermaLink="true">https://devfreebooks.github.io/ocalm/#the-ocaml-system-documentation-and-users-manual</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 16 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Real World OCaml]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/ocalm/#the-ocaml-system-documentation-and-users-manual</link><guid isPermaLink="true">https://devfreebooks.github.io/ocalm/#the-ocaml-system-documentation-and-users-manual</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 15 Nov 2016 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Real World OCaml]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/real-world-ocaml.jpg" title="Real World OCaml" />
@@ -404,7 +404,7 @@
             Lang: <b>EN</b> | Pages: <b>510</b> | Year: <b>2013</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/ocalm/#real-world-ocaml</link><guid isPermaLink="true">https://devfreebooks.github.io/ocalm/#real-world-ocaml</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 16 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Unix System Programming in OCaml]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/ocalm/#real-world-ocaml</link><guid isPermaLink="true">https://devfreebooks.github.io/ocalm/#real-world-ocaml</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 15 Nov 2016 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Unix System Programming in OCaml]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/ocalm.png" title="Unix System Programming in OCaml" />
@@ -418,7 +418,7 @@
             Lang: <b>EN</b> | Pages: <b>138</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/ocalm/#unix-system-programming-in-ocaml</link><guid isPermaLink="true">https://devfreebooks.github.io/ocalm/#unix-system-programming-in-ocaml</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 16 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Using, Understanding, and Unraveling OCaml]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/ocalm/#unix-system-programming-in-ocaml</link><guid isPermaLink="true">https://devfreebooks.github.io/ocalm/#unix-system-programming-in-ocaml</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 15 Nov 2016 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Using, Understanding, and Unraveling OCaml]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/ocalm.png" title="Using, Understanding, and Unraveling OCaml" />
@@ -432,7 +432,7 @@
             Lang: <b>EN</b> | Pages: <b>174</b> | Year: <b>2001</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/ocalm/#using-understanding-and-unraveling-ocaml</link><guid isPermaLink="true">https://devfreebooks.github.io/ocalm/#using-understanding-and-unraveling-ocaml</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 16 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Stuff Goes Bad: Erlang in Anger]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/ocalm/#using-understanding-and-unraveling-ocaml</link><guid isPermaLink="true">https://devfreebooks.github.io/ocalm/#using-understanding-and-unraveling-ocaml</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 15 Nov 2016 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Stuff Goes Bad: Erlang in Anger]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/erlang-in-anger.jpg" title="Stuff Goes Bad: Erlang in Anger" />
@@ -446,7 +446,7 @@
             Lang: <b>EN</b> | Pages: <b>93</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/erlang/#stuff-goes-bad-erlang-in-anger</link><guid isPermaLink="true">https://devfreebooks.github.io/erlang/#stuff-goes-bad-erlang-in-anger</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 16 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Mostly Adequate Guide to Functional Programming]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/erlang/#stuff-goes-bad-erlang-in-anger</link><guid isPermaLink="true">https://devfreebooks.github.io/erlang/#stuff-goes-bad-erlang-in-anger</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 15 Nov 2016 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Mostly Adequate Guide to Functional Programming]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/javascript.png" title="Mostly Adequate Guide to Functional Programming" />
@@ -460,7 +460,7 @@
             Lang: <b>EN</b> | Pages: <b>62</b> | Year: <b>2015</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/javascript/#mostly-adequate-guide-to-functional-programming</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#mostly-adequate-guide-to-functional-programming</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 15 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: JavaScript Allongé, the "Six" Edition]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/javascript/#mostly-adequate-guide-to-functional-programming</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#mostly-adequate-guide-to-functional-programming</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 14 Nov 2016 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: JavaScript Allongé, the "Six" Edition]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/javascript-allonge.jpg" title="JavaScript Allongé, the "Six" Edition" />
@@ -474,7 +474,7 @@
             Lang: <b>EN</b> | Pages: <b>513</b> | Year: <b>2015</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/javascript/#javascript-allong-the-six-edition</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#javascript-allong-the-six-edition</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 15 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Web2Py]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/javascript/#javascript-allong-the-six-edition</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#javascript-allong-the-six-edition</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 14 Nov 2016 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Web2Py]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/python.png" title="Web2Py" />
@@ -488,7 +488,7 @@
             Lang: <b>EN</b> | Pages: <b>614</b> | Year: <b>2013</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/python/#web2py</link><guid isPermaLink="true">https://devfreebooks.github.io/python/#web2py</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 15 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Exploring ES6]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/python/#web2py</link><guid isPermaLink="true">https://devfreebooks.github.io/python/#web2py</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 14 Nov 2016 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Exploring ES6]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/exploring-es6.jpg" title="Exploring ES6" />
@@ -502,7 +502,7 @@
             Lang: <b>EN</b> | Pages: <b>620</b> | Year: <b>2016</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/javascript/#exploring-es6</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#exploring-es6</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 15 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Higher-Order Perl]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/javascript/#exploring-es6</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#exploring-es6</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 14 Nov 2016 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Higher-Order Perl]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/higher-order-perl.jpg" title="Higher-Order Perl" />
@@ -516,7 +516,7 @@
             Lang: <b>EN</b> | Pages: <b>592</b> | Year: <b>2005</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/perl/#higherorder-perl</link><guid isPermaLink="true">https://devfreebooks.github.io/perl/#higherorder-perl</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 15 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Learn You Some Erlang for Great Good!]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/perl/#higherorder-perl</link><guid isPermaLink="true">https://devfreebooks.github.io/perl/#higherorder-perl</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 14 Nov 2016 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Learn You Some Erlang for Great Good!]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/learn-you-some-erlang-for-great-good.jpg" title="Learn You Some Erlang for Great Good!" />
@@ -530,7 +530,7 @@
             Lang: <b>EN</b> | Pages: <b>624</b> | Year: <b>2013</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/erlang/#learn-you-some-erlang-for-great-good</link><guid isPermaLink="true">https://devfreebooks.github.io/erlang/#learn-you-some-erlang-for-great-good</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 15 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Threading in C#]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/erlang/#learn-you-some-erlang-for-great-good</link><guid isPermaLink="true">https://devfreebooks.github.io/erlang/#learn-you-some-erlang-for-great-good</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 14 Nov 2016 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Threading in C#]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/csharp.png" title="Threading in C#" />
@@ -544,7 +544,7 @@
             Lang: <b>EN</b> | Pages: <b>125</b> | Year: <b>2011</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/csharp/#threading-in-c</link><guid isPermaLink="true">https://devfreebooks.github.io/csharp/#threading-in-c</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 15 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Pro Git]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/csharp/#threading-in-c</link><guid isPermaLink="true">https://devfreebooks.github.io/csharp/#threading-in-c</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 14 Nov 2016 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Pro Git]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/pro-git.jpg" title="Pro Git" />
@@ -558,7 +558,7 @@
             Lang: <b>EN</b> | Pages: <b>456</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/git/#pro-git</link><guid isPermaLink="true">https://devfreebooks.github.io/git/#pro-git</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 15 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Ruby Web Dev: The Other Way]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/git/#pro-git</link><guid isPermaLink="true">https://devfreebooks.github.io/git/#pro-git</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 14 Nov 2016 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Ruby Web Dev: The Other Way]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/ruby-web-dev-the-other-way.jpg" title="Ruby Web Dev: The Other Way" />
@@ -572,7 +572,7 @@
             Lang: <b>EN</b> | Pages: <b>60</b> | Year: <b>2016</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/ruby/#ruby-web-dev-the-other-way</link><guid isPermaLink="true">https://devfreebooks.github.io/ruby/#ruby-web-dev-the-other-way</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 15 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Pocket Guide to Writing SVG]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/ruby/#ruby-web-dev-the-other-way</link><guid isPermaLink="true">https://devfreebooks.github.io/ruby/#ruby-web-dev-the-other-way</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 14 Nov 2016 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Pocket Guide to Writing SVG]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/pocket-guide-writing-svg.jpg" title="Pocket Guide to Writing SVG" />
@@ -586,7 +586,7 @@
             Lang: <b>EN</b> | Pages: <b>1</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/svg/#pocket-guide-to-writing-svg</link><guid isPermaLink="true">https://devfreebooks.github.io/svg/#pocket-guide-to-writing-svg</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 14 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: SCALABLE, un libro sobre SVG]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/svg/#pocket-guide-to-writing-svg</link><guid isPermaLink="true">https://devfreebooks.github.io/svg/#pocket-guide-to-writing-svg</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sun, 13 Nov 2016 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: SCALABLE, un libro sobre SVG]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/scalable.jpg" title="SCALABLE, un libro sobre SVG" />
@@ -600,7 +600,7 @@
             Lang: <b>ES</b> | Pages: <b>146</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/svg/#scalable-un-libro-sobre-svg</link><guid isPermaLink="true">https://devfreebooks.github.io/svg/#scalable-un-libro-sobre-svg</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 14 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Build Pacman]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/svg/#scalable-un-libro-sobre-svg</link><guid isPermaLink="true">https://devfreebooks.github.io/svg/#scalable-un-libro-sobre-svg</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sun, 13 Nov 2016 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Build Pacman]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/build-pacman.jpg" title="Build Pacman" />
@@ -614,7 +614,7 @@
             Lang: <b>EN</b> | Pages: <b>189</b> | Year: <b>2016</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/emberjs/#build-pacman</link><guid isPermaLink="true">https://devfreebooks.github.io/emberjs/#build-pacman</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sat, 12 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: HTML5 for Web Designers]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/emberjs/#build-pacman</link><guid isPermaLink="true">https://devfreebooks.github.io/emberjs/#build-pacman</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 11 Nov 2016 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: HTML5 for Web Designers]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/html5-for-web-designers.jpg" title="HTML5 for Web Designers" />
@@ -628,7 +628,7 @@
             Lang: <b>EN</b> | Pages: <b>92</b> | Year: <b>2010</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/html/#html5-for-web-designers</link><guid isPermaLink="true">https://devfreebooks.github.io/html/#html5-for-web-designers</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sat, 12 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Automate Boring Stuff With Python]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/html/#html5-for-web-designers</link><guid isPermaLink="true">https://devfreebooks.github.io/html/#html5-for-web-designers</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 11 Nov 2016 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Automate Boring Stuff With Python]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/automate-the-boring-stuff-with-python.jpg" title="Automate Boring Stuff With Python" />
@@ -642,7 +642,7 @@
             Lang: <b>EN</b> | Pages: <b>479</b> | Year: <b>2015</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/python/#automate-boring-stuff-with-python</link><guid isPermaLink="true">https://devfreebooks.github.io/python/#automate-boring-stuff-with-python</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 11 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Core Java - DZone Refcard]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/python/#automate-boring-stuff-with-python</link><guid isPermaLink="true">https://devfreebooks.github.io/python/#automate-boring-stuff-with-python</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 10 Nov 2016 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Core Java - DZone Refcard]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/core-java-dzone-refcard.jpg" title="Core Java - DZone Refcard" />
@@ -656,7 +656,7 @@
             Lang: <b>EN</b> | Pages: <b>6</b> | Year: <b>2016</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/java/#core-java--dzone-refcard</link><guid isPermaLink="true">https://devfreebooks.github.io/java/#core-java--dzone-refcard</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 11 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: React.js Succinctly]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/java/#core-java--dzone-refcard</link><guid isPermaLink="true">https://devfreebooks.github.io/java/#core-java--dzone-refcard</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 10 Nov 2016 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: React.js Succinctly]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/reactjs-succinctly.jpg" title="React.js Succinctly" />
@@ -670,7 +670,7 @@
             Lang: <b>EN</b> | Pages: <b>102</b> | Year: <b>2016</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/react/#reactjs-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/react/#reactjs-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 11 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Getting Started With Git - DZone Refcard]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/react/#reactjs-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/react/#reactjs-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 10 Nov 2016 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Getting Started With Git - DZone Refcard]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/getting-started-git-dzone-refcard.jpg" title="Getting Started With Git - DZone Refcard" />
@@ -684,7 +684,7 @@
             Lang: <b>EN</b> | Pages: <b>6</b> | Year: <b>2016</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/git/#getting-started-with-git--dzone-refcard</link><guid isPermaLink="true">https://devfreebooks.github.io/git/#getting-started-with-git--dzone-refcard</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 11 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Vim para Noobs]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/git/#getting-started-with-git--dzone-refcard</link><guid isPermaLink="true">https://devfreebooks.github.io/git/#getting-started-with-git--dzone-refcard</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 10 Nov 2016 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Vim para Noobs]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/vim.png" title="Vim para Noobs" />
@@ -698,7 +698,7 @@
             Lang: <b>PT-BR</b> | Pages: <b>38</b> | Year: <b>2016</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/vim/#vim-para-noobs</link><guid isPermaLink="true">https://devfreebooks.github.io/vim/#vim-para-noobs</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 11 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Go Bootcamp]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/vim/#vim-para-noobs</link><guid isPermaLink="true">https://devfreebooks.github.io/vim/#vim-para-noobs</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 10 Nov 2016 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Go Bootcamp]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/go.png" title="Go Bootcamp" />
@@ -712,7 +712,7 @@
             Lang: <b>EN</b> | Pages: <b>118</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/go/#go-bootcamp</link><guid isPermaLink="true">https://devfreebooks.github.io/go/#go-bootcamp</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 11 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Getting Started with Scala - DZone Refcard]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/go/#go-bootcamp</link><guid isPermaLink="true">https://devfreebooks.github.io/go/#go-bootcamp</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 10 Nov 2016 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Getting Started with Scala - DZone Refcard]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/getting-started-with-scala-dzone-refcard.jpg" title="Getting Started with Scala - DZone Refcard" />
@@ -726,7 +726,7 @@
             Lang: <b>EN</b> | Pages: <b>6</b> | Year: <b>2016</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/scala/#getting-started-with-scala--dzone-refcard</link><guid isPermaLink="true">https://devfreebooks.github.io/scala/#getting-started-with-scala--dzone-refcard</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 11 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Swift Essentials - DZone Refcard]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/scala/#getting-started-with-scala--dzone-refcard</link><guid isPermaLink="true">https://devfreebooks.github.io/scala/#getting-started-with-scala--dzone-refcard</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 10 Nov 2016 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Swift Essentials - DZone Refcard]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/swift-essentials-dzone-refcard.jpg" title="Swift Essentials - DZone Refcard" />
@@ -740,7 +740,7 @@
             Lang: <b>EN</b> | Pages: <b>6</b> | Year: <b>2016</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/ios/#swift-essentials--dzone-refcard</link><guid isPermaLink="true">https://devfreebooks.github.io/ios/#swift-essentials--dzone-refcard</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 11 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: C# Code Contracts Succinctly]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/ios/#swift-essentials--dzone-refcard</link><guid isPermaLink="true">https://devfreebooks.github.io/ios/#swift-essentials--dzone-refcard</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 10 Nov 2016 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: C# Code Contracts Succinctly]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/csharp-code-contracts-succinctly.jpg" title="C# Code Contracts Succinctly" />
@@ -754,7 +754,7 @@
             Lang: <b>EN</b> | Pages: <b>90</b> | Year: <b>2016</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/csharp/#c-code-contracts-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/csharp/#c-code-contracts-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 10 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: ECMAScript 6 Succinctly]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/csharp/#c-code-contracts-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/csharp/#c-code-contracts-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 09 Nov 2016 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: ECMAScript 6 Succinctly]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/ecmascript-6-succinctly.jpg" title="ECMAScript 6 Succinctly" />
@@ -768,7 +768,7 @@
             Lang: <b>EN</b> | Pages: <b>106</b> | Year: <b>2016</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/javascript/#ecmascript-6-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#ecmascript-6-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 10 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: You Don't Know JS: Up & Going]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/javascript/#ecmascript-6-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#ecmascript-6-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 09 Nov 2016 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: You Don't Know JS: Up & Going]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/javascript.png" title="You Don't Know JS: Up & Going" />
@@ -782,7 +782,7 @@
             Lang: <b>EN</b> | Pages: <b>88</b> | Year: <b>2015</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/javascript/#you-dont-know-js-up--going</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#you-dont-know-js-up--going</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 10 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: You Don't Know JS: Scope & Closures]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/javascript/#you-dont-know-js-up--going</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#you-dont-know-js-up--going</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 09 Nov 2016 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: You Don't Know JS: Scope & Closures]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/javascript.png" title="You Don't Know JS: Scope & Closures" />
@@ -796,7 +796,7 @@
             Lang: <b>EN</b> | Pages: <b>98</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/javascript/#you-dont-know-js-scope--closures</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#you-dont-know-js-scope--closures</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 10 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: You Don't Know JS: this & Object Prototypes]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/javascript/#you-dont-know-js-scope--closures</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#you-dont-know-js-scope--closures</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 09 Nov 2016 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: You Don't Know JS: this & Object Prototypes]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/javascript.png" title="You Don't Know JS: this & Object Prototypes" />
@@ -810,7 +810,7 @@
             Lang: <b>EN</b> | Pages: <b>174</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/javascript/#you-dont-know-js-this--object-prototypes</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#you-dont-know-js-this--object-prototypes</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 10 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: You Don't Know JS: Types & Grammar]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/javascript/#you-dont-know-js-this--object-prototypes</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#you-dont-know-js-this--object-prototypes</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 09 Nov 2016 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: You Don't Know JS: Types & Grammar]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/javascript.png" title="You Don't Know JS: Types & Grammar" />
@@ -824,7 +824,7 @@
             Lang: <b>EN</b> | Pages: <b>198</b> | Year: <b>2015</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/javascript/#you-dont-know-js-types--grammar</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#you-dont-know-js-types--grammar</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 10 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: You Don't Know JS: Async & Performance]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/javascript/#you-dont-know-js-types--grammar</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#you-dont-know-js-types--grammar</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 09 Nov 2016 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: You Don't Know JS: Async & Performance]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/javascript.png" title="You Don't Know JS: Async & Performance" />
@@ -838,7 +838,7 @@
             Lang: <b>EN</b> | Pages: <b>296</b> | Year: <b>2015</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/javascript/#you-dont-know-js-async--performance</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#you-dont-know-js-async--performance</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 10 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: You Don't Know JS: ES6 & Beyond]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/javascript/#you-dont-know-js-async--performance</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#you-dont-know-js-async--performance</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 09 Nov 2016 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: You Don't Know JS: ES6 & Beyond]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/javascript.png" title="You Don't Know JS: ES6 & Beyond" />
@@ -852,7 +852,7 @@
             Lang: <b>EN</b> | Pages: <b>278</b> | Year: <b>2015</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/javascript/#you-dont-know-js-es6--beyond</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#you-dont-know-js-es6--beyond</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 10 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Elixir School]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/javascript/#you-dont-know-js-es6--beyond</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#you-dont-know-js-es6--beyond</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 09 Nov 2016 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Elixir School]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/elixir-school.jpg" title="Elixir School" />
@@ -866,7 +866,7 @@
             Lang: <b>EN</b> | Pages: <b>32</b> | Year: <b>2015</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/elixir/#elixir-school</link><guid isPermaLink="true">https://devfreebooks.github.io/elixir/#elixir-school</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 10 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Modern Perl]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/elixir/#elixir-school</link><guid isPermaLink="true">https://devfreebooks.github.io/elixir/#elixir-school</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 09 Nov 2016 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Modern Perl]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/modern-perl.jpg" title="Modern Perl" />
@@ -880,7 +880,7 @@
             Lang: <b>EN</b> | Pages: <b>286</b> | Year: <b>2016</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/perl/#modern-perl</link><guid isPermaLink="true">https://devfreebooks.github.io/perl/#modern-perl</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 10 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: C# Succinctly]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/perl/#modern-perl</link><guid isPermaLink="true">https://devfreebooks.github.io/perl/#modern-perl</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 09 Nov 2016 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: C# Succinctly]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/csharp-succinctly.jpg" title="C# Succinctly" />
@@ -894,7 +894,7 @@
             Lang: <b>EN</b> | Pages: <b>98</b> | Year: <b>2015</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/csharp/#c-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/csharp/#c-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 10 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: OOP in C# Succinctly]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/csharp/#c-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/csharp/#c-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 09 Nov 2016 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: OOP in C# Succinctly]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/object-oriented-programming-in-csharp-succinctly.jpg" title="OOP in C# Succinctly" />
@@ -908,7 +908,7 @@
             Lang: <b>EN</b> | Pages: <b>95</b> | Year: <b>2016</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/csharp/#oop-in-c-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/csharp/#oop-in-c-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 10 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Learn You a Haskell for Great Good]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/csharp/#oop-in-c-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/csharp/#oop-in-c-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 09 Nov 2016 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Learn You a Haskell for Great Good]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/learn-you-a-haskell-for-great-good.jpg" title="Learn You a Haskell for Great Good" />
@@ -922,7 +922,7 @@
             Lang: <b>EN</b> | Pages: <b>400</b> | Year: <b>2011</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/haskell/#learn-you-a-haskell-for-great-good</link><guid isPermaLink="true">https://devfreebooks.github.io/haskell/#learn-you-a-haskell-for-great-good</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 10 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Perl 6 Introduction]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/haskell/#learn-you-a-haskell-for-great-good</link><guid isPermaLink="true">https://devfreebooks.github.io/haskell/#learn-you-a-haskell-for-great-good</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 09 Nov 2016 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Perl 6 Introduction]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/perl6-introduction.jpg" title="Perl 6 Introduction" />
@@ -936,7 +936,7 @@
             Lang: <b>EN</b> | Pages: <b>79</b> | Year: <b>2016</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/perl6/#perl-6-introduction</link><guid isPermaLink="true">https://devfreebooks.github.io/perl6/#perl-6-introduction</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 09 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: The Hitchhiker’s Guide to Python]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/perl6/#perl-6-introduction</link><guid isPermaLink="true">https://devfreebooks.github.io/perl6/#perl-6-introduction</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 08 Nov 2016 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: The Hitchhiker’s Guide to Python]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/python-hitchhikers-guide-to-python.jpg" title="The Hitchhiker’s Guide to Python" />
@@ -950,7 +950,7 @@
             Lang: <b>EN</b> | Pages: <b>119</b> | Year: <b>2016</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/python/#the-hitchhikers-guide-to-python</link><guid isPermaLink="true">https://devfreebooks.github.io/python/#the-hitchhikers-guide-to-python</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sun, 06 Nov 2016 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Effective Django]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/python/#the-hitchhikers-guide-to-python</link><guid isPermaLink="true">https://devfreebooks.github.io/python/#the-hitchhikers-guide-to-python</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sat, 05 Nov 2016 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Effective Django]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/django.png" title="Effective Django" />
@@ -964,7 +964,7 @@
             Lang: <b>EN</b> | Pages: <b>51</b> | Year: <b>2015</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/django/#effective-django</link><guid isPermaLink="true">https://devfreebooks.github.io/django/#effective-django</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sun, 18 Oct 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Vim for Humans]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/django/#effective-django</link><guid isPermaLink="true">https://devfreebooks.github.io/django/#effective-django</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sat, 17 Oct 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Vim for Humans]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/vim.png" title="Vim for Humans" />
@@ -978,7 +978,7 @@
             Lang: <b>EN</b> | Pages: <b>49</b> | Year: <b>2015</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/vim/#vim-for-humans</link><guid isPermaLink="true">https://devfreebooks.github.io/vim/#vim-for-humans</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 12 Aug 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Getting Started with Meteor Deployment]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/vim/#vim-for-humans</link><guid isPermaLink="true">https://devfreebooks.github.io/vim/#vim-for-humans</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 11 Aug 2015 14:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Getting Started with Meteor Deployment]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/getting-started-with-meteor-deployment.jpg" title="Getting Started with Meteor Deployment" />
@@ -992,7 +992,7 @@
             Lang: <b>EN</b> | Pages: <b>7</b> | Year: <b>2015</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/meteor/#getting-started-with-meteor-deployment</link><guid isPermaLink="true">https://devfreebooks.github.io/meteor/#getting-started-with-meteor-deployment</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 25 Jun 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Your Second Meteor Application]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/meteor/#getting-started-with-meteor-deployment</link><guid isPermaLink="true">https://devfreebooks.github.io/meteor/#getting-started-with-meteor-deployment</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 24 Jun 2015 14:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Your Second Meteor Application]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/your-second-meteor-application.jpg" title="Your Second Meteor Application" />
@@ -1006,7 +1006,7 @@
             Lang: <b>EN</b> | Pages: <b>7</b> | Year: <b>2015</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/meteor/#your-second-meteor-application</link><guid isPermaLink="true">https://devfreebooks.github.io/meteor/#your-second-meteor-application</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 25 Jun 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Learn Vimscript the Hard Way]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/meteor/#your-second-meteor-application</link><guid isPermaLink="true">https://devfreebooks.github.io/meteor/#your-second-meteor-application</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 24 Jun 2015 14:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Learn Vimscript the Hard Way]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/vim.png" title="Learn Vimscript the Hard Way" />
@@ -1020,7 +1020,7 @@
             Lang: <b>EN</b> | Pages: <b>56</b> | Year: <b>2013</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/vim/#learn-vimscript-the-hard-way</link><guid isPermaLink="true">https://devfreebooks.github.io/vim/#learn-vimscript-the-hard-way</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 14 Apr 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Ember Tutorial]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/vim/#learn-vimscript-the-hard-way</link><guid isPermaLink="true">https://devfreebooks.github.io/vim/#learn-vimscript-the-hard-way</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 13 Apr 2015 14:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Ember Tutorial]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/emberjs.png" title="Ember Tutorial" />
@@ -1034,7 +1034,7 @@
             Lang: <b>EN</b> | Pages: <b>22</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/emberjs/#ember-tutorial</link><guid isPermaLink="true">https://devfreebooks.github.io/emberjs/#ember-tutorial</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 14 Apr 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Developing Backbone.js Applications]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/emberjs/#ember-tutorial</link><guid isPermaLink="true">https://devfreebooks.github.io/emberjs/#ember-tutorial</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 13 Apr 2015 14:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Developing Backbone.js Applications]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/developing-backbonejs-applications.jpg" title="Developing Backbone.js Applications" />
@@ -1048,7 +1048,7 @@
             Lang: <b>EN</b> | Pages: <b>374</b> | Year: <b>2013</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/backbone/#developing-backbonejs-applications</link><guid isPermaLink="true">https://devfreebooks.github.io/backbone/#developing-backbonejs-applications</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 14 Apr 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Deep Dive in TypeScript]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/backbone/#developing-backbonejs-applications</link><guid isPermaLink="true">https://devfreebooks.github.io/backbone/#developing-backbonejs-applications</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 13 Apr 2015 14:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Deep Dive in TypeScript]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/typescript-deep-dive.jpg" title="Deep Dive in TypeScript" />
@@ -1062,7 +1062,7 @@
             Lang: <b>EN</b> | Pages: <b>217</b> | Year: <b>2016</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/typescript/#deep-dive-in-typescript</link><guid isPermaLink="true">https://devfreebooks.github.io/typescript/#deep-dive-in-typescript</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 14 Apr 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Learning Go]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/typescript/#deep-dive-in-typescript</link><guid isPermaLink="true">https://devfreebooks.github.io/typescript/#deep-dive-in-typescript</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 13 Apr 2015 14:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Learning Go]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/go.png" title="Learning Go" />
@@ -1076,7 +1076,7 @@
             Lang: <b>EN</b> | Pages: <b>112</b> | Year: <b>2015</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/go/#learning-go</link><guid isPermaLink="true">https://devfreebooks.github.io/go/#learning-go</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 14 Apr 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Backbone Tutorials]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/go/#learning-go</link><guid isPermaLink="true">https://devfreebooks.github.io/go/#learning-go</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 13 Apr 2015 14:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Backbone Tutorials]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/backbone-tutorials.jpg" title="Backbone Tutorials" />
@@ -1090,7 +1090,7 @@
             Lang: <b>EN</b> | Pages: <b>141</b> | Year: <b>2013</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/backbone/#backbone-tutorials</link><guid isPermaLink="true">https://devfreebooks.github.io/backbone/#backbone-tutorials</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 14 Apr 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Ruby On Rails Tutorial 3rd Edition]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/backbone/#backbone-tutorials</link><guid isPermaLink="true">https://devfreebooks.github.io/backbone/#backbone-tutorials</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 13 Apr 2015 14:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Ruby On Rails Tutorial 3rd Edition]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/ruby-on-rails-tutorial-3rd-edition.jpg" title="Ruby On Rails Tutorial 3rd Edition" />
@@ -1104,7 +1104,7 @@
             Lang: <b>EN</b> | Pages: <b>96</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/rails/#ruby-on-rails-tutorial-3rd-edition</link><guid isPermaLink="true">https://devfreebooks.github.io/rails/#ruby-on-rails-tutorial-3rd-edition</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 14 Apr 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Learn Programming with Java]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/rails/#ruby-on-rails-tutorial-3rd-edition</link><guid isPermaLink="true">https://devfreebooks.github.io/rails/#ruby-on-rails-tutorial-3rd-edition</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 13 Apr 2015 14:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Learn Programming with Java]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/java.png" title="Learn Programming with Java" />
@@ -1118,7 +1118,7 @@
             Lang: <b>EN</b> | Pages: <b>21</b> | Year: <b>2015</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/java/#learn-programming-with-java</link><guid isPermaLink="true">https://devfreebooks.github.io/java/#learn-programming-with-java</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 14 Apr 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Haskell language]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/java/#learn-programming-with-java</link><guid isPermaLink="true">https://devfreebooks.github.io/java/#learn-programming-with-java</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 13 Apr 2015 14:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Haskell language]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/haskell.png" title="Haskell language" />
@@ -1132,7 +1132,7 @@
             Lang: <b>EN</b> | Pages: <b>607</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/haskell/#haskell-language</link><guid isPermaLink="true">https://devfreebooks.github.io/haskell/#haskell-language</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 14 Apr 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Go by Example]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/haskell/#haskell-language</link><guid isPermaLink="true">https://devfreebooks.github.io/haskell/#haskell-language</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 13 Apr 2015 14:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Go by Example]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/go.png" title="Go by Example" />
@@ -1146,7 +1146,7 @@
             Lang: <b>EN</b> | Pages: <b>64</b> | Year: <b>2013</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/go/#go-by-example</link><guid isPermaLink="true">https://devfreebooks.github.io/go/#go-by-example</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 14 Apr 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Sinatra Book]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/go/#go-by-example</link><guid isPermaLink="true">https://devfreebooks.github.io/go/#go-by-example</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 13 Apr 2015 14:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Sinatra Book]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/ruby.png" title="Sinatra Book" />
@@ -1160,7 +1160,7 @@
             Lang: <b>EN</b> | Pages: <b>16</b> | Year: <b>2012</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/ruby/#sinatra-book</link><guid isPermaLink="true">https://devfreebooks.github.io/ruby/#sinatra-book</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 14 Apr 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Meteor Tutorial]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/ruby/#sinatra-book</link><guid isPermaLink="true">https://devfreebooks.github.io/ruby/#sinatra-book</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 13 Apr 2015 14:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Meteor Tutorial]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/meteor-tutorial.jpg" title="Meteor Tutorial" />
@@ -1174,7 +1174,7 @@
             Lang: <b>EN</b> | Pages: <b>1</b> | Year: <b>2015</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/meteor/#meteor-tutorial</link><guid isPermaLink="true">https://devfreebooks.github.io/meteor/#meteor-tutorial</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 08 Apr 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Agile Android Software Development]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/meteor/#meteor-tutorial</link><guid isPermaLink="true">https://devfreebooks.github.io/meteor/#meteor-tutorial</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 07 Apr 2015 14:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Agile Android Software Development]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/agile-android.jpg" title="Agile Android Software Development" />
@@ -1188,7 +1188,7 @@
             Lang: <b>EN</b> | Pages: <b>1</b> | Year: <b>2015</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/android/#agile-android-software-development</link><guid isPermaLink="true">https://devfreebooks.github.io/android/#agile-android-software-development</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 07 Apr 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: HTTP Succinctly]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/android/#agile-android-software-development</link><guid isPermaLink="true">https://devfreebooks.github.io/android/#agile-android-software-development</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 06 Apr 2015 14:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: HTTP Succinctly]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/http-succinctly.jpg" title="HTTP Succinctly" />
@@ -1202,7 +1202,7 @@
             Lang: <b>EN</b> | Pages: <b>55</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/network-protocols/#http-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/network-protocols/#http-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 07 Apr 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Practical Cryptography With Go]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/network-protocols/#http-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/network-protocols/#http-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 06 Apr 2015 14:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Practical Cryptography With Go]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/go.png" title="Practical Cryptography With Go" />
@@ -1216,7 +1216,7 @@
             Lang: <b>EN</b> | Pages: <b>21</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/go/#practical-cryptography-with-go</link><guid isPermaLink="true">https://devfreebooks.github.io/go/#practical-cryptography-with-go</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 07 Apr 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Android Programming Succinctly]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/go/#practical-cryptography-with-go</link><guid isPermaLink="true">https://devfreebooks.github.io/go/#practical-cryptography-with-go</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 06 Apr 2015 14:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Android Programming Succinctly]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/android-programming-succinctly.jpg" title="Android Programming Succinctly" />
@@ -1230,7 +1230,7 @@
             Lang: <b>EN</b> | Pages: <b>113</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/android/#android-programming-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/android/#android-programming-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 07 Apr 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Play Framework Recipes]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/android/#android-programming-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/android/#android-programming-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 06 Apr 2015 14:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Play Framework Recipes]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/playframework.png" title="Play Framework Recipes" />
@@ -1244,7 +1244,7 @@
             Lang: <b>EN</b> | Pages: <b>84</b> | Year: <b>2013</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/playframework/#play-framework-recipes</link><guid isPermaLink="true">https://devfreebooks.github.io/playframework/#play-framework-recipes</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 07 Apr 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Better Specs]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/playframework/#play-framework-recipes</link><guid isPermaLink="true">https://devfreebooks.github.io/playframework/#play-framework-recipes</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 06 Apr 2015 14:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Better Specs]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/ruby.png" title="Better Specs" />
@@ -1258,7 +1258,7 @@
             Lang: <b>EN</b> | Pages: <b>30</b> | Year: <b>2013</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/ruby/#better-specs</link><guid isPermaLink="true">https://devfreebooks.github.io/ruby/#better-specs</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sat, 28 Mar 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: APIs on Rails]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/ruby/#better-specs</link><guid isPermaLink="true">https://devfreebooks.github.io/ruby/#better-specs</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 27 Mar 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: APIs on Rails]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/rails.png" title="APIs on Rails" />
@@ -1272,7 +1272,7 @@
             Lang: <b>EN</b> | Pages: <b>11</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/rails/#apis-on-rails</link><guid isPermaLink="true">https://devfreebooks.github.io/rails/#apis-on-rails</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sat, 28 Mar 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Angular Basics]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/rails/#apis-on-rails</link><guid isPermaLink="true">https://devfreebooks.github.io/rails/#apis-on-rails</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 27 Mar 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Angular Basics]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/angular-basics.jpg" title="Angular Basics" />
@@ -1286,7 +1286,7 @@
             Lang: <b>EN</b> | Pages: <b>14</b> | Year: <b>2015</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/angularjs/#angular-basics</link><guid isPermaLink="true">https://devfreebooks.github.io/angularjs/#angular-basics</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 19 Mar 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Real World Haskell]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/angularjs/#angular-basics</link><guid isPermaLink="true">https://devfreebooks.github.io/angularjs/#angular-basics</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 18 Mar 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Real World Haskell]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/real-world-haskell.jpg" title="Real World Haskell" />
@@ -1300,7 +1300,7 @@
             Lang: <b>EN</b> | Pages: <b>40</b> | Year: <b>2008</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/haskell/#real-world-haskell</link><guid isPermaLink="true">https://devfreebooks.github.io/haskell/#real-world-haskell</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 19 Mar 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Parallel and Concurrent Programming in Haskell]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/haskell/#real-world-haskell</link><guid isPermaLink="true">https://devfreebooks.github.io/haskell/#real-world-haskell</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 18 Mar 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Parallel and Concurrent Programming in Haskell]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/haskell.png" title="Parallel and Concurrent Programming in Haskell" />
@@ -1314,7 +1314,7 @@
             Lang: <b>EN</b> | Pages: <b>143</b> | Year: <b>2013</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/haskell/#parallel-and-concurrent-programming-in-haskell</link><guid isPermaLink="true">https://devfreebooks.github.io/haskell/#parallel-and-concurrent-programming-in-haskell</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 19 Mar 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Build web application with Golang]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/haskell/#parallel-and-concurrent-programming-in-haskell</link><guid isPermaLink="true">https://devfreebooks.github.io/haskell/#parallel-and-concurrent-programming-in-haskell</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 18 Mar 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Build web application with Golang]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/build-web-application-with-golang.jpg" title="Build web application with Golang" />
@@ -1328,7 +1328,7 @@
             Lang: <b>EN, JP, FR, CH</b> | Pages: <b>293</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/go/#build-web-application-with-golang</link><guid isPermaLink="true">https://devfreebooks.github.io/go/#build-web-application-with-golang</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 12 Mar 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: HTTP2 Explained]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/go/#build-web-application-with-golang</link><guid isPermaLink="true">https://devfreebooks.github.io/go/#build-web-application-with-golang</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 11 Mar 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: HTTP2 Explained]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/http2-explained.jpg" title="HTTP2 Explained" />
@@ -1342,7 +1342,7 @@
             Lang: <b>EN</b> | Pages: <b>33</b> | Year: <b>2015</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/network-protocols/#http2-explained</link><guid isPermaLink="true">https://devfreebooks.github.io/network-protocols/#http2-explained</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 12 Mar 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: A byte of Python]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/network-protocols/#http2-explained</link><guid isPermaLink="true">https://devfreebooks.github.io/network-protocols/#http2-explained</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 11 Mar 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: A byte of Python]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/python.png" title="A byte of Python" />
@@ -1356,7 +1356,7 @@
             Lang: <b>EN</b> | Pages: <b>176</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/python/#a-byte-of-python</link><guid isPermaLink="true">https://devfreebooks.github.io/python/#a-byte-of-python</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 06 Mar 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: A byte of Vim]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/python/#a-byte-of-python</link><guid isPermaLink="true">https://devfreebooks.github.io/python/#a-byte-of-python</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 05 Mar 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: A byte of Vim]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/vim.png" title="A byte of Vim" />
@@ -1370,7 +1370,7 @@
             Lang: <b>EN</b> | Pages: <b>89</b> | Year: <b>2008</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/vim/#a-byte-of-vim</link><guid isPermaLink="true">https://devfreebooks.github.io/vim/#a-byte-of-vim</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 06 Mar 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Programming JavaScript Applications]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/vim/#a-byte-of-vim</link><guid isPermaLink="true">https://devfreebooks.github.io/vim/#a-byte-of-vim</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 05 Mar 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Programming JavaScript Applications]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/programming-javascript-applications.jpg" title="Programming JavaScript Applications" />
@@ -1384,7 +1384,7 @@
             Lang: <b>EN</b> | Pages: <b>254</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/javascript/#programming-javascript-applications</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#programming-javascript-applications</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 27 Feb 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Scala by Example]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/javascript/#programming-javascript-applications</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#programming-javascript-applications</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 26 Feb 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Scala by Example]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/scala-by-example.jpg" title="Scala by Example" />
@@ -1398,7 +1398,7 @@
             Lang: <b>EN</b> | Pages: <b>145</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/scala/#scala-by-example</link><guid isPermaLink="true">https://devfreebooks.github.io/scala/#scala-by-example</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 27 Feb 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Creative Scala]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/scala/#scala-by-example</link><guid isPermaLink="true">https://devfreebooks.github.io/scala/#scala-by-example</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 26 Feb 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Creative Scala]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/creative-scala.jpg" title="Creative Scala" />
@@ -1412,7 +1412,7 @@
             Lang: <b>EN</b> | Pages: <b>58</b> | Year: <b>2015</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/scala/#creative-scala</link><guid isPermaLink="true">https://devfreebooks.github.io/scala/#creative-scala</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 27 Feb 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Explore Flask]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/scala/#creative-scala</link><guid isPermaLink="true">https://devfreebooks.github.io/scala/#creative-scala</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 26 Feb 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Explore Flask]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/explore-flask.jpg" title="Explore Flask" />
@@ -1426,7 +1426,7 @@
             Lang: <b>EN</b> | Pages: <b>14</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/python/#explore-flask</link><guid isPermaLink="true">https://devfreebooks.github.io/python/#explore-flask</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 25 Feb 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Eloquent JavaScript (Second Edition)]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/python/#explore-flask</link><guid isPermaLink="true">https://devfreebooks.github.io/python/#explore-flask</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 24 Feb 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Eloquent JavaScript (Second Edition)]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/eloquent-javascript.jpg" title="Eloquent JavaScript (Second Edition)" />
@@ -1440,7 +1440,7 @@
             Lang: <b>EN</b> | Pages: <b>490</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/javascript/#eloquent-javascript-second-edition</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#eloquent-javascript-second-edition</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 25 Feb 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Getting Started with Django]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/javascript/#eloquent-javascript-second-edition</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#eloquent-javascript-second-edition</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 24 Feb 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Getting Started with Django]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/getting-started-with-django.jpg" title="Getting Started with Django" />
@@ -1454,7 +1454,7 @@
             Lang: <b>EN</b> | Pages: <b>1</b> | Year: <b>2013</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/django/#getting-started-with-django</link><guid isPermaLink="true">https://devfreebooks.github.io/django/#getting-started-with-django</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 25 Feb 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Building a JavaScript Framework]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/django/#getting-started-with-django</link><guid isPermaLink="true">https://devfreebooks.github.io/django/#getting-started-with-django</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 24 Feb 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Building a JavaScript Framework]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/javascript.png" title="Building a JavaScript Framework" />
@@ -1468,7 +1468,7 @@
             Lang: <b>EN</b> | Pages: <b>81</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/javascript/#building-a-javascript-framework</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#building-a-javascript-framework</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 25 Feb 2015 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: JavaScript Spessore]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/javascript/#building-a-javascript-framework</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#building-a-javascript-framework</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 24 Feb 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: JavaScript Spessore]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/javascript-spessore.jpg" title="JavaScript Spessore" />
@@ -1482,7 +1482,7 @@
             Lang: <b>EN</b> | Pages: <b>364</b> | Year: <b>2013</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/javascript/#javascript-spessore</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#javascript-spessore</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 18 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Gradle Goodness Notebook]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/javascript/#javascript-spessore</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#javascript-spessore</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 17 Feb 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Gradle Goodness Notebook]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/gradle-goodness-notebook.jpg" title="Gradle Goodness Notebook" />
@@ -1496,7 +1496,7 @@
             Lang: <b>EN</b> | Pages: <b>113</b> | Year: <b>2012</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/groovy/#gradle-goodness-notebook</link><guid isPermaLink="true">https://devfreebooks.github.io/groovy/#gradle-goodness-notebook</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 18 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Spocklight Notebook]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/groovy/#gradle-goodness-notebook</link><guid isPermaLink="true">https://devfreebooks.github.io/groovy/#gradle-goodness-notebook</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 17 Feb 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Spocklight Notebook]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/spocklight-notebook.jpg" title="Spocklight Notebook" />
@@ -1510,7 +1510,7 @@
             Lang: <b>EN</b> | Pages: <b>40</b> | Year: <b>2012</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/groovy/#spocklight-notebook</link><guid isPermaLink="true">https://devfreebooks.github.io/groovy/#spocklight-notebook</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 18 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Kestrels, Quirky Birds, and Hopeless Egocentricity]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/groovy/#spocklight-notebook</link><guid isPermaLink="true">https://devfreebooks.github.io/groovy/#spocklight-notebook</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 17 Feb 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Kestrels, Quirky Birds, and Hopeless Egocentricity]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/kestrels-quirky-birds-and-hopeless-egocentricity.jpg" title="Kestrels, Quirky Birds, and Hopeless Egocentricity" />
@@ -1524,7 +1524,7 @@
             Lang: <b>EN</b> | Pages: <b>123</b> | Year: <b>2011</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/ruby/#kestrels-quirky-birds-and-hopeless-egocentricity</link><guid isPermaLink="true">https://devfreebooks.github.io/ruby/#kestrels-quirky-birds-and-hopeless-egocentricity</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 18 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: CoffeeScript Ristretto]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/ruby/#kestrels-quirky-birds-and-hopeless-egocentricity</link><guid isPermaLink="true">https://devfreebooks.github.io/ruby/#kestrels-quirky-birds-and-hopeless-egocentricity</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 17 Feb 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: CoffeeScript Ristretto]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/coffeescript-ristretto.jpg" title="CoffeeScript Ristretto" />
@@ -1538,7 +1538,7 @@
             Lang: <b>EN</b> | Pages: <b>142</b> | Year: <b>2013</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/javascript/#coffeescript-ristretto</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#coffeescript-ristretto</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 18 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: jQuery Succinctly]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/javascript/#coffeescript-ristretto</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#coffeescript-ristretto</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 17 Feb 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: jQuery Succinctly]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/jquery-succinctly.jpg" title="jQuery Succinctly" />
@@ -1552,7 +1552,7 @@
             Lang: <b>EN</b> | Pages: <b>101</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/javascript/#jquery-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#jquery-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 16 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: PHP The Right Way]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/javascript/#jquery-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#jquery-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sun, 15 Feb 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: PHP The Right Way]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/php-the-right-way.jpg" title="PHP The Right Way" />
@@ -1566,7 +1566,7 @@
             Lang: <b>EN</b> | Pages: <b>1</b> | Year: <b>2015</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/php/#php-the-right-way</link><guid isPermaLink="true">https://devfreebooks.github.io/php/#php-the-right-way</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 16 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Learn Ruby The Hard Way]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/php/#php-the-right-way</link><guid isPermaLink="true">https://devfreebooks.github.io/php/#php-the-right-way</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sun, 15 Feb 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Learn Ruby The Hard Way]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/learn-ruby-the-hard-way.jpg" title="Learn Ruby The Hard Way" />
@@ -1580,7 +1580,7 @@
             Lang: <b>EN</b> | Pages: <b>57</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/ruby/#learn-ruby-the-hard-way</link><guid isPermaLink="true">https://devfreebooks.github.io/ruby/#learn-ruby-the-hard-way</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 16 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Developing Games with Ruby]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/ruby/#learn-ruby-the-hard-way</link><guid isPermaLink="true">https://devfreebooks.github.io/ruby/#learn-ruby-the-hard-way</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sun, 15 Feb 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Developing Games with Ruby]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/developing-games-with-ruby.jpg" title="Developing Games with Ruby" />
@@ -1594,7 +1594,7 @@
             Lang: <b>EN</b> | Pages: <b>254</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/ruby/#developing-games-with-ruby</link><guid isPermaLink="true">https://devfreebooks.github.io/ruby/#developing-games-with-ruby</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 16 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Knockout.js Succinctly]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/ruby/#developing-games-with-ruby</link><guid isPermaLink="true">https://devfreebooks.github.io/ruby/#developing-games-with-ruby</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sun, 15 Feb 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Knockout.js Succinctly]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/knockout-succinctly.jpg" title="Knockout.js Succinctly" />
@@ -1608,7 +1608,7 @@
             Lang: <b>EN</b> | Pages: <b>68</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/javascript/#knockoutjs-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#knockoutjs-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 16 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Typescript Succinctly]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/javascript/#knockoutjs-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#knockoutjs-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sun, 15 Feb 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Typescript Succinctly]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/typescript-succinctly.jpg" title="Typescript Succinctly" />
@@ -1622,7 +1622,7 @@
             Lang: <b>EN</b> | Pages: <b>82</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/typescript/#typescript-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/typescript/#typescript-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 16 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Git Succinctly]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/typescript/#typescript-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/typescript/#typescript-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sun, 15 Feb 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Git Succinctly]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/git-succinctly.jpg" title="Git Succinctly" />
@@ -1636,7 +1636,7 @@
             Lang: <b>EN</b> | Pages: <b>59</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/git/#git-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/git/#git-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 16 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: iOS Succinctly]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/git/#git-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/git/#git-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sun, 15 Feb 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: iOS Succinctly]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/ios-succinctly.jpg" title="iOS Succinctly" />
@@ -1650,7 +1650,7 @@
             Lang: <b>EN</b> | Pages: <b>118</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/ios/#ios-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/ios/#ios-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 16 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Django Girls Tutorial]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/ios/#ios-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/ios/#ios-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sun, 15 Feb 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Django Girls Tutorial]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/django-girls.jpg" title="Django Girls Tutorial" />
@@ -1664,7 +1664,7 @@
             Lang: <b>EN</b> | Pages: <b>93</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/django/#django-girls-tutorial</link><guid isPermaLink="true">https://devfreebooks.github.io/django/#django-girls-tutorial</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sat, 14 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Laravel 4 Official Documentation]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/django/#django-girls-tutorial</link><guid isPermaLink="true">https://devfreebooks.github.io/django/#django-girls-tutorial</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 13 Feb 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Laravel 4 Official Documentation]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/laravel-4-official-documentation.jpg" title="Laravel 4 Official Documentation" />
@@ -1678,7 +1678,7 @@
             Lang: <b>EN</b> | Pages: <b>344</b> | Year: <b>2015</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/php/#laravel-4-official-documentation</link><guid isPermaLink="true">https://devfreebooks.github.io/php/#laravel-4-official-documentation</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sat, 14 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: RubyKin]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/php/#laravel-4-official-documentation</link><guid isPermaLink="true">https://devfreebooks.github.io/php/#laravel-4-official-documentation</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 13 Feb 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: RubyKin]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/rubykin.jpg" title="RubyKin" />
@@ -1692,7 +1692,7 @@
             Lang: <b>EN</b> | Pages: <b>50</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/ruby/#rubykin</link><guid isPermaLink="true">https://devfreebooks.github.io/ruby/#rubykin</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sat, 14 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Swift Cheat Sheet]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/ruby/#rubykin</link><guid isPermaLink="true">https://devfreebooks.github.io/ruby/#rubykin</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 13 Feb 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Swift Cheat Sheet]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/swift-cheat-sheet.jpg" title="Swift Cheat Sheet" />
@@ -1706,7 +1706,7 @@
             Lang: <b>EN</b> | Pages: <b>19</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/ios/#swift-cheat-sheet</link><guid isPermaLink="true">https://devfreebooks.github.io/ios/#swift-cheat-sheet</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sat, 14 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Git for Everyone]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/ios/#swift-cheat-sheet</link><guid isPermaLink="true">https://devfreebooks.github.io/ios/#swift-cheat-sheet</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 13 Feb 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Git for Everyone]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/git-for-everyone.jpg" title="Git for Everyone" />
@@ -1720,7 +1720,7 @@
             Lang: <b>EN</b> | Pages: <b>58</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/git/#git-for-everyone</link><guid isPermaLink="true">https://devfreebooks.github.io/git/#git-for-everyone</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sat, 14 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Module Patterns]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/git/#git-for-everyone</link><guid isPermaLink="true">https://devfreebooks.github.io/git/#git-for-everyone</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 13 Feb 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Module Patterns]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/module-patterns.jpg" title="Module Patterns" />
@@ -1734,7 +1734,7 @@
             Lang: <b>EN</b> | Pages: <b>37</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/nodejs/#module-patterns</link><guid isPermaLink="true">https://devfreebooks.github.io/nodejs/#module-patterns</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sat, 14 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Learn Javascript]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/nodejs/#module-patterns</link><guid isPermaLink="true">https://devfreebooks.github.io/nodejs/#module-patterns</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 13 Feb 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Learn Javascript]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/learn-javascript.jpg" title="Learn Javascript" />
@@ -1748,7 +1748,7 @@
             Lang: <b>EN</b> | Pages: <b>37</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/javascript/#learn-javascript</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#learn-javascript</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sat, 14 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: HTML 5 Shoot 'em Up in an Afternoon]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/javascript/#learn-javascript</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#learn-javascript</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 13 Feb 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: HTML 5 Shoot 'em Up in an Afternoon]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/html5-shoot-em-up-in-an-afternoon.jpg" title="HTML 5 Shoot 'em Up in an Afternoon" />
@@ -1762,7 +1762,7 @@
             Lang: <b>EN</b> | Pages: <b>95</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/javascript/#html-5-shoot-em-up-in-an-afternoon</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#html-5-shoot-em-up-in-an-afternoon</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sat, 14 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: iOS 8 Day by Day]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/javascript/#html-5-shoot-em-up-in-an-afternoon</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#html-5-shoot-em-up-in-an-afternoon</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 13 Feb 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: iOS 8 Day by Day]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/ios8-day-by-day.jpg" title="iOS 8 Day by Day" />
@@ -1776,7 +1776,7 @@
             Lang: <b>EN</b> | Pages: <b>315</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/ios/#ios-8-day-by-day</link><guid isPermaLink="true">https://devfreebooks.github.io/ios/#ios-8-day-by-day</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sat, 14 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Web Development Using Elixir]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/ios/#ios-8-day-by-day</link><guid isPermaLink="true">https://devfreebooks.github.io/ios/#ios-8-day-by-day</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 13 Feb 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Web Development Using Elixir]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/web-development-using-elixir.jpg" title="Web Development Using Elixir" />
@@ -1790,7 +1790,7 @@
             Lang: <b>EN</b> | Pages: <b>20</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/elixir/#web-development-using-elixir</link><guid isPermaLink="true">https://devfreebooks.github.io/elixir/#web-development-using-elixir</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sat, 14 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: D3 Tips and Tricks]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/elixir/#web-development-using-elixir</link><guid isPermaLink="true">https://devfreebooks.github.io/elixir/#web-development-using-elixir</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 13 Feb 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: D3 Tips and Tricks]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/d3-tips-and-tricks.jpg" title="D3 Tips and Tricks" />
@@ -1804,7 +1804,7 @@
             Lang: <b>EN</b> | Pages: <b>591</b> | Year: <b>2015</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/javascript/#d3-tips-and-tricks</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#d3-tips-and-tricks</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sat, 14 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Java and Object Oriented]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/javascript/#d3-tips-and-tricks</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#d3-tips-and-tricks</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 13 Feb 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Java and Object Oriented]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/java-orientacao-objetos.jpg" title="Java and Object Oriented" />
@@ -1818,7 +1818,7 @@
             Lang: <b>PT-BR</b> | Pages: <b>304</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/java/#java-and-object-oriented</link><guid isPermaLink="true">https://devfreebooks.github.io/java/#java-and-object-oriented</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 10 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: The Java® Virtual Machine Specification Java SE 8 Edition]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/java/#java-and-object-oriented</link><guid isPermaLink="true">https://devfreebooks.github.io/java/#java-and-object-oriented</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 09 Feb 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: The Java® Virtual Machine Specification Java SE 8 Edition]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/java-virtual-machine-specification-8.jpg" title="The Java® Virtual Machine Specification Java SE 8 Edition" />
@@ -1832,7 +1832,7 @@
             Lang: <b>EN</b> | Pages: <b>626</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/java/#the-java-virtual-machine-specification-java-se-8-edition</link><guid isPermaLink="true">https://devfreebooks.github.io/java/#the-java-virtual-machine-specification-java-se-8-edition</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 10 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: The Java® Language Specification Java SE 8 Edition]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/java/#the-java-virtual-machine-specification-java-se-8-edition</link><guid isPermaLink="true">https://devfreebooks.github.io/java/#the-java-virtual-machine-specification-java-se-8-edition</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 09 Feb 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: The Java® Language Specification Java SE 8 Edition]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/java-language-specification-8.jpg" title="The Java® Language Specification Java SE 8 Edition" />
@@ -1846,7 +1846,7 @@
             Lang: <b>EN</b> | Pages: <b>780</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/java/#the-java-language-specification-java-se-8-edition</link><guid isPermaLink="true">https://devfreebooks.github.io/java/#the-java-language-specification-java-se-8-edition</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 10 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Java for Web Developing]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/java/#the-java-language-specification-java-se-8-edition</link><guid isPermaLink="true">https://devfreebooks.github.io/java/#the-java-language-specification-java-se-8-edition</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 09 Feb 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Java for Web Developing]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/java-web.jpg" title="Java for Web Developing" />
@@ -1860,7 +1860,7 @@
             Lang: <b>PT-BR</b> | Pages: <b>284</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/java/#java-for-web-developing</link><guid isPermaLink="true">https://devfreebooks.github.io/java/#java-for-web-developing</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 10 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Algorithms and Data Structures with Java]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/java/#java-for-web-developing</link><guid isPermaLink="true">https://devfreebooks.github.io/java/#java-for-web-developing</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 09 Feb 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Algorithms and Data Structures with Java]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/java-estrutura-dados.jpg" title="Algorithms and Data Structures with Java" />
@@ -1874,7 +1874,7 @@
             Lang: <b>PT-BR</b> | Pages: <b>157</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/java/#algorithms-and-data-structures-with-java</link><guid isPermaLink="true">https://devfreebooks.github.io/java/#algorithms-and-data-structures-with-java</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 10 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Java Tests, JSF and Design Patterns]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/java/#algorithms-and-data-structures-with-java</link><guid isPermaLink="true">https://devfreebooks.github.io/java/#algorithms-and-data-structures-with-java</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 09 Feb 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Java Tests, JSF and Design Patterns]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/java-testes-jsf-web-services-design-patterns.jpg" title="Java Tests, JSF and Design Patterns" />
@@ -1888,7 +1888,7 @@
             Lang: <b>PT-BR</b> | Pages: <b>178</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/java/#java-tests-jsf-and-design-patterns</link><guid isPermaLink="true">https://devfreebooks.github.io/java/#java-tests-jsf-and-design-patterns</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 10 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Learn Python The Hard Way]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/java/#java-tests-jsf-and-design-patterns</link><guid isPermaLink="true">https://devfreebooks.github.io/java/#java-tests-jsf-and-design-patterns</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 09 Feb 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Learn Python The Hard Way]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/learn-python-the-hard-way.jpg" title="Learn Python The Hard Way" />
@@ -1902,7 +1902,7 @@
             Lang: <b>EN</b> | Pages: <b>58</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/python/#learn-python-the-hard-way</link><guid isPermaLink="true">https://devfreebooks.github.io/python/#learn-python-the-hard-way</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 06 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Python Practice Book]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/python/#learn-python-the-hard-way</link><guid isPermaLink="true">https://devfreebooks.github.io/python/#learn-python-the-hard-way</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 05 Feb 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Python Practice Book]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/python-practice-book.jpg" title="Python Practice Book" />
@@ -1916,7 +1916,7 @@
             Lang: <b>EN</b> | Pages: <b>36</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/python/#python-practice-book</link><guid isPermaLink="true">https://devfreebooks.github.io/python/#python-practice-book</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 06 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Let's create a realtime blackboard with Meteor Streams]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/python/#python-practice-book</link><guid isPermaLink="true">https://devfreebooks.github.io/python/#python-practice-book</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 05 Feb 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Let's create a realtime blackboard with Meteor Streams]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/lets-create-a-realtime-blackboard-with-meteor-streams.jpg" title="Let's create a realtime blackboard with Meteor Streams" />
@@ -1930,7 +1930,7 @@
             Lang: <b>EN</b> | Pages: <b>23</b> | Year: <b>2013</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/meteor/#lets-create-a-realtime-blackboard-with-meteor-streams</link><guid isPermaLink="true">https://devfreebooks.github.io/meteor/#lets-create-a-realtime-blackboard-with-meteor-streams</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 04 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: JavaScript Succinctly]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/meteor/#lets-create-a-realtime-blackboard-with-meteor-streams</link><guid isPermaLink="true">https://devfreebooks.github.io/meteor/#lets-create-a-realtime-blackboard-with-meteor-streams</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 03 Feb 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: JavaScript Succinctly]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/javascript-succinctly.jpg" title="JavaScript Succinctly" />
@@ -1944,7 +1944,7 @@
             Lang: <b>EN</b> | Pages: <b>143</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/javascript/#javascript-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#javascript-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 04 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Your First Meteor Application]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/javascript/#javascript-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#javascript-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 03 Feb 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Your First Meteor Application]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/your-first-meteor-application.jpg" title="Your First Meteor Application" />
@@ -1958,7 +1958,7 @@
             Lang: <b>EN</b> | Pages: <b>75</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/meteor/#your-first-meteor-application</link><guid isPermaLink="true">https://devfreebooks.github.io/meteor/#your-first-meteor-application</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 04 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Pro Meteor: Meteor Internals, Scaling & More]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/meteor/#your-first-meteor-application</link><guid isPermaLink="true">https://devfreebooks.github.io/meteor/#your-first-meteor-application</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 03 Feb 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Pro Meteor: Meteor Internals, Scaling & More]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/pro-meteor-meteor-internals-scaling-and-more.jpg" title="Pro Meteor: Meteor Internals, Scaling & More" />
@@ -1972,7 +1972,7 @@
             Lang: <b>EN</b> | Pages: <b>24</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/meteor/#pro-meteor-meteor-internals-scaling--more</link><guid isPermaLink="true">https://devfreebooks.github.io/meteor/#pro-meteor-meteor-internals-scaling--more</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 04 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Learning JavaScript Design Patterns]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/meteor/#pro-meteor-meteor-internals-scaling--more</link><guid isPermaLink="true">https://devfreebooks.github.io/meteor/#pro-meteor-meteor-internals-scaling--more</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 03 Feb 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Learning JavaScript Design Patterns]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/learning-javascript-design-patterns.jpg" title="Learning JavaScript Design Patterns" />
@@ -1986,7 +1986,7 @@
             Lang: <b>EN</b> | Pages: <b>254</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/javascript/#learning-javascript-design-patterns</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#learning-javascript-design-patterns</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 02 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Patterns For Large-Scale JavaScript Application architecture]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/javascript/#learning-javascript-design-patterns</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#learning-javascript-design-patterns</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sun, 01 Feb 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Patterns For Large-Scale JavaScript Application architecture]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/javascript.png" title="Patterns For Large-Scale JavaScript Application architecture" />
@@ -2000,7 +2000,7 @@
             Lang: <b>EN</b> | Pages: <b>1</b> | Year: <b>2012</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/javascript/#patterns-for-largescale-javascript-application-architecture</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#patterns-for-largescale-javascript-application-architecture</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 02 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Writing Modular JavaScript With AMD, CommonJS & ES Harmony]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/javascript/#patterns-for-largescale-javascript-application-architecture</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#patterns-for-largescale-javascript-application-architecture</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sun, 01 Feb 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Writing Modular JavaScript With AMD, CommonJS & ES Harmony]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/javascript.png" title="Writing Modular JavaScript With AMD, CommonJS & ES Harmony" />
@@ -2014,7 +2014,7 @@
             Lang: <b>EN</b> | Pages: <b>1</b> | Year: <b>2013</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/javascript/#writing-modular-javascript-with-amd-commonjs--es-harmony</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#writing-modular-javascript-with-amd-commonjs--es-harmony</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 02 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: ECMAScript Language Specification]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/javascript/#writing-modular-javascript-with-amd-commonjs--es-harmony</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#writing-modular-javascript-with-amd-commonjs--es-harmony</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sun, 01 Feb 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: ECMAScript Language Specification]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/ecmascript-language-specification.jpg" title="ECMAScript Language Specification" />
@@ -2028,7 +2028,7 @@
             Lang: <b>EN</b> | Pages: <b>258</b> | Year: <b>2011</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/javascript/#ecmascript-language-specification</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#ecmascript-language-specification</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 02 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Human JavaScript]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/javascript/#ecmascript-language-specification</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#ecmascript-language-specification</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sun, 01 Feb 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Human JavaScript]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/human-javascript.jpg" title="Human JavaScript" />
@@ -2042,7 +2042,7 @@
             Lang: <b>EN</b> | Pages: <b>16</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/javascript/#human-javascript</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#human-javascript</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 02 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Understanding ECMAScript 6]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/javascript/#human-javascript</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#human-javascript</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sun, 01 Feb 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Understanding ECMAScript 6]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/understanding-ecmascript-6.jpg" title="Understanding ECMAScript 6" />
@@ -2056,7 +2056,7 @@
             Lang: <b>EN</b> | Pages: <b>1</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/javascript/#understanding-ecmascript-6</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#understanding-ecmascript-6</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Mon, 02 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: An Introduction to Programming in Go]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/javascript/#understanding-ecmascript-6</link><guid isPermaLink="true">https://devfreebooks.github.io/javascript/#understanding-ecmascript-6</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sun, 01 Feb 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: An Introduction to Programming in Go]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/an-introduction-to-programming-in-go.jpg" title="An Introduction to Programming in Go" />
@@ -2070,7 +2070,7 @@
             Lang: <b>EN</b> | Pages: <b>165</b> | Year: <b>2012</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/go/#an-introduction-to-programming-in-go</link><guid isPermaLink="true">https://devfreebooks.github.io/go/#an-introduction-to-programming-in-go</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sun, 01 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Building web apps with Go]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/go/#an-introduction-to-programming-in-go</link><guid isPermaLink="true">https://devfreebooks.github.io/go/#an-introduction-to-programming-in-go</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sat, 31 Jan 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Building web apps with Go]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/building-web-apps-with-go.jpg" title="Building web apps with Go" />
@@ -2084,7 +2084,7 @@
             Lang: <b>EN</b> | Pages: <b>24</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/go/#building-web-apps-with-go</link><guid isPermaLink="true">https://devfreebooks.github.io/go/#building-web-apps-with-go</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sun, 01 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: The Little Go Book]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/go/#building-web-apps-with-go</link><guid isPermaLink="true">https://devfreebooks.github.io/go/#building-web-apps-with-go</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sat, 31 Jan 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: The Little Go Book]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/the-little-go-book.jpg" title="The Little Go Book" />
@@ -2098,7 +2098,7 @@
             Lang: <b>EN</b> | Pages: <b>50</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/go/#the-little-go-book</link><guid isPermaLink="true">https://devfreebooks.github.io/go/#the-little-go-book</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sun, 01 Feb 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: AngularJS Succinctly]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/go/#the-little-go-book</link><guid isPermaLink="true">https://devfreebooks.github.io/go/#the-little-go-book</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sat, 31 Jan 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: AngularJS Succinctly]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/angularjs-succinctly.jpg" title="AngularJS Succinctly" />
@@ -2112,7 +2112,7 @@
             Lang: <b>EN</b> | Pages: <b>112</b> | Year: <b>2013</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/angularjs/#angularjs-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/angularjs/#angularjs-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sat, 31 Jan 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Heroku + Node.JS]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/angularjs/#angularjs-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/angularjs/#angularjs-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 30 Jan 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Heroku + Node.JS]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/heroku-nodejs.jpg" title="Heroku + Node.JS" />
@@ -2126,7 +2126,7 @@
             Lang: <b>EN</b> | Pages: <b>11</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/nodejs/#heroku--nodejs</link><guid isPermaLink="true">https://devfreebooks.github.io/nodejs/#heroku--nodejs</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sat, 31 Jan 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Recipes with Angular.js]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/nodejs/#heroku--nodejs</link><guid isPermaLink="true">https://devfreebooks.github.io/nodejs/#heroku--nodejs</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 30 Jan 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Recipes with Angular.js]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/recipes-with-angularjs.jpg" title="Recipes with Angular.js" />
@@ -2140,7 +2140,7 @@
             Lang: <b>EN</b> | Pages: <b>103</b> | Year: <b>2013</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/angularjs/#recipes-with-angularjs</link><guid isPermaLink="true">https://devfreebooks.github.io/angularjs/#recipes-with-angularjs</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sat, 31 Jan 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Mastering Node.js]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/angularjs/#recipes-with-angularjs</link><guid isPermaLink="true">https://devfreebooks.github.io/angularjs/#recipes-with-angularjs</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 30 Jan 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Mastering Node.js]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/mastering-nodejs.jpg" title="Mastering Node.js" />
@@ -2154,7 +2154,7 @@
             Lang: <b>EN</b> | Pages: <b>85</b> | Year: <b>2011</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/nodejs/#mastering-nodejs</link><guid isPermaLink="true">https://devfreebooks.github.io/nodejs/#mastering-nodejs</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sat, 31 Jan 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: AngularJS in 60 Minutes]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/nodejs/#mastering-nodejs</link><guid isPermaLink="true">https://devfreebooks.github.io/nodejs/#mastering-nodejs</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 30 Jan 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: AngularJS in 60 Minutes]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/angularjs-in-60-minutes.jpg" title="AngularJS in 60 Minutes" />
@@ -2168,7 +2168,7 @@
             Lang: <b>EN</b> | Pages: <b>102</b> | Year: <b>2013</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/angularjs/#angularjs-in-60-minutes</link><guid isPermaLink="true">https://devfreebooks.github.io/angularjs/#angularjs-in-60-minutes</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sat, 31 Jan 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: npm recipes]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/angularjs/#angularjs-in-60-minutes</link><guid isPermaLink="true">https://devfreebooks.github.io/angularjs/#angularjs-in-60-minutes</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 30 Jan 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: npm recipes]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/npm-recipes.jpg" title="npm recipes" />
@@ -2182,7 +2182,7 @@
             Lang: <b>EN</b> | Pages: <b>52</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/nodejs/#npm-recipes</link><guid isPermaLink="true">https://devfreebooks.github.io/nodejs/#npm-recipes</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sat, 31 Jan 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Node, Express and libsass: project from scratch workshop]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/nodejs/#npm-recipes</link><guid isPermaLink="true">https://devfreebooks.github.io/nodejs/#npm-recipes</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 30 Jan 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Node, Express and libsass: project from scratch workshop]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/node-express-and-libsass-project-from-scratch-workshop.jpg" title="Node, Express and libsass: project from scratch workshop" />
@@ -2196,7 +2196,7 @@
             Lang: <b>EN</b> | Pages: <b>50</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/nodejs/#node-express-and-libsass-project-from-scratch-workshop</link><guid isPermaLink="true">https://devfreebooks.github.io/nodejs/#node-express-and-libsass-project-from-scratch-workshop</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sat, 31 Jan 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Practical AngularJS]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/nodejs/#node-express-and-libsass-project-from-scratch-workshop</link><guid isPermaLink="true">https://devfreebooks.github.io/nodejs/#node-express-and-libsass-project-from-scratch-workshop</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 30 Jan 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Practical AngularJS]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/practical-angularjs.jpg" title="Practical AngularJS" />
@@ -2210,7 +2210,7 @@
             Lang: <b>EN</b> | Pages: <b>103</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/angularjs/#practical-angularjs</link><guid isPermaLink="true">https://devfreebooks.github.io/angularjs/#practical-angularjs</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sat, 31 Jan 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Mixu's Node book]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/angularjs/#practical-angularjs</link><guid isPermaLink="true">https://devfreebooks.github.io/angularjs/#practical-angularjs</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 30 Jan 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Mixu's Node book]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/nodejs.png" title="Mixu's Node book" />
@@ -2224,7 +2224,7 @@
             Lang: <b>EN</b> | Pages: <b>14</b> | Year: <b>2012</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/nodejs/#mixus-node-book</link><guid isPermaLink="true">https://devfreebooks.github.io/nodejs/#mixus-node-book</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sat, 31 Jan 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Node.js Succinctly]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/nodejs/#mixus-node-book</link><guid isPermaLink="true">https://devfreebooks.github.io/nodejs/#mixus-node-book</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 30 Jan 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Node.js Succinctly]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/nodejs-succinctly.jpg" title="Node.js Succinctly" />
@@ -2238,7 +2238,7 @@
             Lang: <b>EN</b> | Pages: <b>76</b> | Year: <b>2016</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/nodejs/#nodejs-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/nodejs/#nodejs-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sat, 31 Jan 2015 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Mastering Bitcoin]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/nodejs/#nodejs-succinctly</link><guid isPermaLink="true">https://devfreebooks.github.io/nodejs/#nodejs-succinctly</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 30 Jan 2015 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Mastering Bitcoin]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/mastering-bitcoin.jpg" title="Mastering Bitcoin" />
@@ -2252,7 +2252,7 @@
             Lang: <b>EN</b> | Pages: <b>298</b> | Year: <b>2014</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/bitcoin/#mastering-bitcoin</link><guid isPermaLink="true">https://devfreebooks.github.io/bitcoin/#mastering-bitcoin</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Sat, 20 Dec 2014 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Learn Ruby On Rails]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/bitcoin/#mastering-bitcoin</link><guid isPermaLink="true">https://devfreebooks.github.io/bitcoin/#mastering-bitcoin</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 19 Dec 2014 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Learn Ruby On Rails]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/rails.png" title="Learn Ruby On Rails" />
@@ -2266,7 +2266,7 @@
             Lang: <b>EN</b> | Pages: <b>159</b> | Year: <b>2016</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/rails/#learn-ruby-on-rails</link><guid isPermaLink="true">https://devfreebooks.github.io/rails/#learn-ruby-on-rails</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 03 Dec 2014 02:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Git Internals]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/rails/#learn-ruby-on-rails</link><guid isPermaLink="true">https://devfreebooks.github.io/rails/#learn-ruby-on-rails</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Tue, 02 Dec 2014 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Git Internals]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/git-internals.jpg" title="Git Internals" />
@@ -2280,7 +2280,7 @@
             Lang: <b>EN</b> | Pages: <b>121</b> | Year: <b>2008</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/git/#git-internals</link><guid isPermaLink="true">https://devfreebooks.github.io/git/#git-internals</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Fri, 14 Mar 2008 03:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Dive Into Python]]></title><description><![CDATA[
+      ]]></description><link>https://devfreebooks.github.io/git/#git-internals</link><guid isPermaLink="true">https://devfreebooks.github.io/git/#git-internals</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 13 Mar 2008 13:00:00 GMT</pubDate></item><item><title><![CDATA[Free book: Dive Into Python]]></title><description><![CDATA[
         <article>
           <figure style="text-align:center;">
             <img src="https://devfreebooks.github.io/assets/images/python-dive-into-python.jpg" title="Dive Into Python" />
@@ -2294,4 +2294,4 @@
             Lang: <b>EN</b> | Pages: <b>327</b> | Year: <b>2004</b>
           </p>
         </article>
-      ]]></description><link>https://devfreebooks.github.io/python/#dive-into-python</link><guid isPermaLink="true">https://devfreebooks.github.io/python/#dive-into-python</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Thu, 20 May 2004 03:00:00 GMT</pubDate></item></channel></rss>
+      ]]></description><link>https://devfreebooks.github.io/python/#dive-into-python</link><guid isPermaLink="true">https://devfreebooks.github.io/python/#dive-into-python</guid><dc:creator><![CDATA[Caio Ribeiro Pereira]]></dc:creator><pubDate>Wed, 19 May 2004 14:00:00 GMT</pubDate></item></channel></rss>
