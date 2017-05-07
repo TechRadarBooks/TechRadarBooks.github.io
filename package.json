@@ -1,8 +1,8 @@
 {
-  "name": "devfreebooks",
+  "name": "TechRadarBooks",
   "version": "2.0.0",
-  "description": "A collection of free books for developers",
-  "author": "Caio Ribeiro Pereira",
+  "description": "An opinionated collection of books for the items on ThoughtWorks technology radar by a few ThoughtWorkers and ex-ThoughtWorkers.",
+  "author": "Peng Xiao",
   "license": "MIT",
   "scripts": {
     "clean": "node clean.js",
