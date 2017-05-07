@@ -1,6 +1,9 @@
 {
   "index": {
     "categories": [
+      "0android",
+      "78.emberjs",
+      "79.python3",
       "android",
       "angularjs",
       "backbone",
@@ -11,7 +14,6 @@
       "d",
       "django",
       "elixir",
-      "emberjs",
       "erlang",
       "git",
       "go",
@@ -29,7 +31,6 @@
       "perl6",
       "php",
       "playframework",
-      "python",
       "rails",
       "react",
       "ruby",

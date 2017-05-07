@@ -1,11 +1,11 @@
 {
   "index": {
     "name": "python",
-    "subtitle": "Python",
+    "subtitle": "79.Python 3",
     "tags": ["language", "backend"],
     "about": "Python is a programming language that lets you work more quickly and integrate your systems more effectively. Python is powerful and fast, plays well with others, runs everywhere, is friendly and easy to learn.",
     "site": "https://www.python.org/",
-    "image": "python.jpg",
+    "image": "python3.jpg",
     "description": "Read the best free ebooks about Python language.",
     "books": [
       {
