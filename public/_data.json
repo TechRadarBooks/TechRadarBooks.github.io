@@ -4,7 +4,8 @@
       "78.emberjs",
       "79.python3",
       "80.reactivex",
-      "81.Redux"
+      "81.redux",
+      "82.avro"
     ]
   }
 }
