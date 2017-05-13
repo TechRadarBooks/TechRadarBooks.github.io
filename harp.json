@@ -2,7 +2,7 @@
   "globals": {
     "title": "Tech Radar Books",
     "slug_title": "devfreebooks",
-    "description": "An opinionated collection of books for the items on ThoughtWorks technology radar by a few ThoughtWorkers and ex-ThoughtWorkers.",
+    "description": "An opinionated book list for ThoughtWorks Technology Radar by (ex-)ThoughtWorkers",
     "author": "Peng Xiao",
     "email": "eagle.xiao@gmail.com",
     "github_url": "https://github.com/TechRadarBooks/TechRadarBooks.github.io",
