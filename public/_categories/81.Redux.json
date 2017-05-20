@@ -1,7 +1,7 @@
 {
   "index": {
     "name": "react",
-    "subtitle": "81.React",
+    "subtitle": "81.Redux",
     "tags": ["framework", "frontend"],
     "about": "Learning React",
     "site": "http://facebook.github.io/react",
