@@ -3,9 +3,9 @@
     "name": "react",
     "subtitle": "82.Avro",
     "tags": ["framework", "frontend"],
-    "about": "Hadoop the definative guide",
+    "about": "Hadoop the definitive guide",
     "site": "http://facebook.github.io/react",
     "image": "hadoop-the-definitive-guide.jpg",
-    "description": "Read the best free ebooks about React.",
+    "description": "Hadoop the definitive guide",
     "books": []  }
 }
