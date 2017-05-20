@@ -13,20 +13,10 @@
       "development": "http://localhost:3000/",
       "production": "https://TechRadarBooks.github.io/"
     },
-    "devfreecasts": {
-      "title": "DevFreeCasts",
-      "about": "A huge collection of free screencasts for developers",
-      "url": "https://devfreecasts.github.io?utm_source=devfreebooks"
-    },
-    "devnewsletters": {
-      "title": "DevNewsletters",
-      "about": "A collection of newsletters for developers subscribe",
-      "url": "https://devnewsletters.github.io?utm_source=devfreebooks"
-    },
-    "watchcoins": {
-      "title": "WatchCoins",
-      "about": "Track bitcoins/altcoins quotations in realtime",
-      "url": "https://watchcoins.net/?utm_source=devfreebooks"
+    "thoughtworkstechradar": {
+      "title": "ThoughtWorks Technology Radar",
+      "about": "The official website of ThoughtWorks Technology Radar.",
+      "url": "https://www.thoughtworks.com/radar"
     },
     "utm": "utm_source=devfreebooks&utm_medium=medium&utm_campaign=DevFreeBooks"
   }
