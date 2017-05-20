@@ -2,7 +2,7 @@
   "index": {
     "name": "emberjs",
     "subtitle": "78.Ember.js",
-    "tags": ["framework", "frontend"],
+    "tags": ["language-framework", "frontend"],
     "about": "EmberJs Cookbook",
     "site": "http://emberjs.com",
     "image": "emberjs-cookbook.jpg",

@@ -2,7 +2,7 @@
   "index": {
     "name": "react",
     "subtitle": "82.Avro",
-    "tags": ["framework", "frontend"],
+    "tags": ["language-framework", "frontend"],
     "about": "Hadoop the definitive guide",
     "site": "http://facebook.github.io/react",
     "image": "hadoop-the-definitive-guide.jpg",

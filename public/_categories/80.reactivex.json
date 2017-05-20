@@ -2,7 +2,7 @@
   "index": {
     "name": "reactivex",
     "subtitle": "80.ReactiveX",
-    "tags": ["language", "backend"],
+    "tags": ["language-framework", "backend"],
     "about": "Reactive Programming with RxJava",
     "site": "https://www.python.org/",
     "image": "reactive-programming-with-rxjava.jpg",

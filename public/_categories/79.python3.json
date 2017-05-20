@@ -2,7 +2,7 @@
   "index": {
     "name": "python",
     "subtitle": "79.Python 3",
-    "tags": ["language", "backend"],
+    "tags": ["language-framework", "backend"],
     "about": "Python 3",
     "site": "https://www.python.org/",
     "image": "python3.jpg",
