@@ -7,7 +7,6 @@ node_modules
 !public/_categories/*
 public/assets/css/application.css
 npm-debug.log
-public/_data.json
 public/*/index.jade
 public/rss.xml
 public/**/_data.json
