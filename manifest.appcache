@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2017-05-20T12:25:30.148Z
+# rev 1 - 2017-05-25T12:22:11.415Z
 
 CACHE:
 404.html
@@ -141,6 +141,7 @@ assets/images/pocket-guide-writing-svg.jpg
 assets/images/practical-angularjs.jpg
 assets/images/pro-git.jpg
 assets/images/pro-meteor-meteor-internals-scaling-and-more.jpg
+assets/images/programming_elixir13.jpg
 assets/images/programming-javascript-applications.jpg
 assets/images/python-dive-into-python.jpg
 assets/images/python-hitchhikers-guide-to-python.jpg
