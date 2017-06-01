@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2017-05-25T12:22:11.415Z
+# rev 1 - 2017-06-01T13:39:38.606Z
 
 CACHE:
 404.html
@@ -62,6 +62,7 @@ assets/images/elixir.jpg
 assets/images/eloquent-javascript.jpg
 assets/images/emberjs-cookbook.jpg
 assets/images/emberjs.jpg
+assets/images/enzyme.png
 assets/images/erlang-in-anger.jpg
 assets/images/erlang.jpg
 assets/images/explore-flask.jpg
