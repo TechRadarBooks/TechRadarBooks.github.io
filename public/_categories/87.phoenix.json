@@ -1,0 +1,11 @@
+{
+  "index": {
+    "name": "phoenix",
+    "subtitle": "87.phoenix",
+    "tags": ["language-framework", "framework"],
+    "about": "A server-side web MVC framework written in Elixir",
+    "site": "http://www.phoenixframework.org/",
+    "image": "phoenix_framework.png",
+    "description": "Phoenix Framework",
+    "books": []  }
+}

@@ -1,0 +1,11 @@
+{
+  "index": {
+    "name": "hangfire",
+    "subtitle": "85.hangfire",
+    "tags": ["language-framework", "framework"],
+    "about": "An easy way to perform background processing in .NET and .NET Core applications",
+    "site": "https://www.hangfire.io/",
+    "image": "hangfire.png",
+    "description": "Hangfire",
+    "books": []  }
+}

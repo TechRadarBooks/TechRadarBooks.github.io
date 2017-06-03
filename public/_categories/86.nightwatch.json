@@ -1,0 +1,11 @@
+{
+  "index": {
+    "name": "nightwatch",
+    "subtitle": "86.nightwatch",
+    "tags": ["language-framework", "framework"],
+    "about": "Write End-to-End tests in Node.js quickly and effortlessly that run against a Selenium/WebDriver server",
+    "site": "http://nightwatchjs.org/",
+    "image": "nightwatch.png",
+    "description": "Nightwatch",
+    "books": []  }
+}
