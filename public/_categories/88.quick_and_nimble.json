@@ -1,0 +1,11 @@
+{
+  "index": {
+    "name": "quick and nimble",
+    "subtitle": "88.quick and nimble",
+    "tags": ["language-framework", "framework"],
+    "about": "The Swift (and Objective-C) testing framework",
+    "site": "https://github.com/Quick/Quick",
+    "image": "quick.png",
+    "description": "Quick and Nimble",
+    "books": []  }
+}
