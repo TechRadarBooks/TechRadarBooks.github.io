@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# rev 1 - 2017-06-01T13:39:38.606Z
+# rev 1 - 2017-06-16T13:38:06.687Z
 
 CACHE:
 404.html
@@ -60,9 +60,7 @@ assets/images/ecmascript-language-specification.jpg
 assets/images/elixir-school.jpg
 assets/images/elixir.jpg
 assets/images/eloquent-javascript.jpg
-assets/images/emberjs-cookbook.jpg
 assets/images/emberjs.jpg
-assets/images/enzyme.png
 assets/images/erlang-in-anger.jpg
 assets/images/erlang.jpg
 assets/images/explore-flask.jpg
@@ -78,7 +76,6 @@ assets/images/git.jpg
 assets/images/go.jpg
 assets/images/gradle-goodness-notebook.jpg
 assets/images/groovy.jpg
-assets/images/hadoop-the-definitive-guide.jpg
 assets/images/haskell.jpg
 assets/images/heroku-nodejs.jpg
 assets/images/high-performance-browser-networking.jpg
@@ -117,7 +114,6 @@ assets/images/learn-to-code-html-and-css.jpg
 assets/images/learn-you-a-haskell-for-great-good.jpg
 assets/images/learn-you-some-erlang-for-great-good.jpg
 assets/images/learning-javascript-design-patterns.jpg
-assets/images/learning-react.jpg
 assets/images/lets-create-a-realtime-blackboard-with-meteor-streams.jpg
 assets/images/mastering-bitcoin.jpg
 assets/images/mastering-nodejs.jpg
@@ -142,16 +138,13 @@ assets/images/pocket-guide-writing-svg.jpg
 assets/images/practical-angularjs.jpg
 assets/images/pro-git.jpg
 assets/images/pro-meteor-meteor-internals-scaling-and-more.jpg
-assets/images/programming_elixir13.jpg
 assets/images/programming-javascript-applications.jpg
 assets/images/python-dive-into-python.jpg
 assets/images/python-hitchhikers-guide-to-python.jpg
 assets/images/python-practice-book.jpg
 assets/images/python.jpg
-assets/images/python3.jpg
 assets/images/rails.jpg
 assets/images/react.jpg
-assets/images/reactive-programming-with-rxjava.jpg
 assets/images/reactjs-succinctly.jpg
 assets/images/real-world-haskell.jpg
 assets/images/real-world-ocaml.jpg
