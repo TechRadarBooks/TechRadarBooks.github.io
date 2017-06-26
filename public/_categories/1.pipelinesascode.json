@@ -3,9 +3,9 @@
     "name": "Pipelines as code",
     "subtitle": "1.Pipelines as code",
     "tags": ["techniques", "CI/CD"],
-    "about": "Pipelines as code",
+    "about": "Continuous Delivery : Reliable Software Releases Through Build, Test, and Deployment Automation",
     "site": "https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912",
     "image": "continuous-delivery.jpg",
-    "description": "Continuous Delivery : Reliable Software Releases Through Build, Test, and Deployment Automation",
+    "description": "Pipelines as code is defining the deployment pipeline through code instead of configuring a running CI/CD tool. ",
     "books": []  }
 }
