@@ -1,0 +1,11 @@
+{
+  "index": {
+    "name": "Pipelines as code",
+    "subtitle": "1.Pipelines as code",
+    "tags": ["techniques", "CI/CD"],
+    "about": "Pipelines as code",
+    "site": "https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912",
+    "image": "continuous-delivery.jpg",
+    "description": "Continuous Delivery : Reliable Software Releases Through Build, Test, and Deployment Automation",
+    "books": []  }
+}

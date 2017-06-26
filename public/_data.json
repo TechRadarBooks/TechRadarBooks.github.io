@@ -1,11 +1,14 @@
 {
   "index": {
     "categories": [
+      "1.pipelinesascode",
       "78.emberjs",
       "79.python3",
       "80.reactivex",
-      "81.redux",
-      "82.avro"
+      "81.Redux",
+      "82.avro",
+      "83.elixir",
+      "84.enzyme"
     ]
   }
 }
